@@ -1,0 +1,118 @@
+[
+{
+  "success": true,
+  "code": "0000",
+  "msg": "성공",
+  "data": {
+    "time": "2024-10-16 15:32:59",
+    "factoryId": 1,
+    "machineId": 0,
+    "machineName": "감마2 B 3셀 OP30",
+    "productId": 7872,
+    "productName": "O0077(OP30-3 HEV)(GAMMA CRANK CASE)",
+    "itemStatus": "good",
+    "status": "run",
+    "toolInfo": [
+      {
+        "time": "2024-10-16 15:32:59",
+        "toolName": "T01",
+        "useCnt": 2226,
+        "presetCnt": 4000,
+        "viewName": "T01 D14.0 EM",
+        "sectionNumber": 1,
+        "machineId": 1678
+      },
+      {
+        "time": "2024-10-16 15:32:59",
+        "toolName": "T02",
+        "useCnt": 4151,
+        "presetCnt": 4500,
+        "viewName": "HATHING",
+        "sectionNumber": 2,
+        "machineId": 1678
+      },
+      {
+        "time": "2024-10-16 15:32:59",
+        "toolName": "T19",
+        "useCnt": 324,
+        "presetCnt": 350,
+        "viewName": "T19 D100.0 FC",
+        "sectionNumber": 3,
+        "machineId": 1678
+      },
+      {
+        "time": "2024-10-16 15:32:59",
+        "toolName": "T03",
+        "useCnt": 3878,
+        "presetCnt": 5000,
+        "viewName": "T03 D9XD12.7 DR",
+        "sectionNumber": 4,
+        "machineId": 1678
+      },
+      {
+        "time": "2024-10-16 15:32:59",
+        "toolName": "T21",
+        "useCnt": 3709,
+        "presetCnt": 5000,
+        "viewName": "T21 D13.0 RE",
+        "sectionNumber": 5,
+        "machineId": 1678
+      },
+      {
+        "time": "2024-10-16 15:32:59",
+        "toolName": "T05",
+        "useCnt": 3714,
+        "presetCnt": 6000,
+        "viewName": "T05 D5.1X18L DR ",
+        "sectionNumber": 6,
+        "machineId": 1678
+      },
+      {
+        "time": "2024-10-16 15:32:59",
+        "toolName": "T06",
+        "useCnt": 3715,
+        "presetCnt": 6000,
+        "viewName": "T06 D5.1X15L DR",
+        "sectionNumber": 7,
+        "machineId": 1678
+      },
+      {
+        "time": "2024-10-16 15:32:59",
+        "toolName": "T07",
+        "useCnt": 3651,
+        "presetCnt": 6000,
+        "viewName": "T07 M6X1.0 TAP",
+        "sectionNumber": 8,
+        "machineId": 1678
+      },
+      {
+        "time": "2024-10-16 15:32:59",
+        "toolName": "T08",
+        "useCnt": 4392,
+        "presetCnt": 5000,
+        "viewName": "T08 D24.0 EM",
+        "sectionNumber": 9,
+        "machineId": 1678
+      },
+      {
+        "time": "2024-10-16 15:32:59",
+        "toolName": "T09",
+        "useCnt": 3153,
+        "presetCnt": 5000,
+        "viewName": "T09 D20.0 PRO CUT",
+        "sectionNumber": 10,
+        "machineId": 1678
+      },
+      {
+        "time": "2024-10-16 15:32:59",
+        "toolName": "T14",
+        "useCnt": 1622,
+        "presetCnt": 5000,
+        "viewName": "T14 D4.0 DR",
+        "sectionNumber": 11,
+        "machineId": 1678
+      }
+    ]
+  }
+}
+]

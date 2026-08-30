@@ -1,0 +1,3794 @@
+{
+    "header": {
+        "result": true,
+        "accountId": "dsapi_2",
+        "reason": null,
+        "reqIp": "106.240.255.66"
+    },
+    "body": [
+        {
+            "machineStatus": "hold",
+            "machineId": 1731,
+            "productId": 14126,
+            "goalQuantity": 156,
+            "productOid": "//CNC_MEM/USER/PATH1/O100",
+            "itemStatus": "good",
+            "goalAttainmentRate": 0.0,
+            "todayCount": 0,
+            "toolInfo": [
+                {
+                    "presetCnt": 7500,
+                    "viewName": "T01 D63.0 MILLING CUTTER",
+                    "sectionNumber": 1,
+                    "useCnt": 2,
+                    "toolName": "T01"
+                },
+                {
+                    "presetCnt": 12000,
+                    "viewName": "T03 D42.0 MONO INSERT BORING TOOL",
+                    "sectionNumber": 2,
+                    "useCnt": 7298,
+                    "toolName": "T03"
+                },
+                {
+                    "presetCnt": 6400,
+                    "viewName": "T05 D31.0 MONO INSERT BORING TOOL",
+                    "sectionNumber": 3,
+                    "useCnt": 2198,
+                    "toolName": "T05"
+                },
+                {
+                    "presetCnt": 11000,
+                    "viewName": "T07 D18.0 MONO PCD ENDMILL",
+                    "sectionNumber": 4,
+                    "useCnt": 7298,
+                    "toolName": "T07"
+                },
+                {
+                    "presetCnt": 8000,
+                    "viewName": "T09 D16.0 ENDMILL 3F",
+                    "sectionNumber": 5,
+                    "useCnt": 3742,
+                    "toolName": "T09"
+                },
+                {
+                    "presetCnt": 11000,
+                    "viewName": null,
+                    "sectionNumber": 6,
+                    "useCnt": 7298,
+                    "toolName": "T11"
+                },
+                {
+                    "presetCnt": 13500,
+                    "viewName": "T13 D20.0 PCD ENDMILL",
+                    "sectionNumber": 7,
+                    "useCnt": 7298,
+                    "toolName": "T13"
+                },
+                {
+                    "presetCnt": 6200,
+                    "viewName": "T15 D8.07/11.0 BURNISHING DRILL",
+                    "sectionNumber": 8,
+                    "useCnt": 3879,
+                    "toolName": "T15"
+                },
+                {
+                    "presetCnt": 5100,
+                    "viewName": null,
+                    "sectionNumber": 9,
+                    "useCnt": 2198,
+                    "toolName": "T17"
+                },
+                {
+                    "presetCnt": 4400,
+                    "viewName": null,
+                    "sectionNumber": 10,
+                    "useCnt": 2949,
+                    "toolName": "T19"
+                },
+                {
+                    "presetCnt": 9600,
+                    "viewName": "T21 D20.35 BURNISHING DRILL",
+                    "sectionNumber": 11,
+                    "useCnt": 2198,
+                    "toolName": "T21"
+                },
+                {
+                    "presetCnt": 8000,
+                    "viewName": "T23 D10.0 ENDMILL 3F",
+                    "sectionNumber": 12,
+                    "useCnt": 3742,
+                    "toolName": "T23"
+                },
+                {
+                    "presetCnt": 6400,
+                    "viewName": "T25 D14.0 ENDMILL 3F",
+                    "sectionNumber": 13,
+                    "useCnt": 2198,
+                    "toolName": "T25"
+                },
+                {
+                    "presetCnt": 4800,
+                    "viewName": "T27 D10.0 ENDMILL 3F ADD TOOL",
+                    "sectionNumber": 14,
+                    "useCnt": 2498,
+                    "toolName": "T27"
+                }
+            ],
+            "realtimeEfficiency": 0.0,
+            "machineName": "MVEV M/H OP10-1",
+            "productName": "O0100"
+        },
+        {
+            "machineStatus": "hold",
+            "machineId": 1768,
+            "productId": 14631,
+            "productOid": "//CNC_MEM/USER/PATH1/O100",
+            "itemStatus": "good",
+            "toolInfo": [
+                {
+                    "presetCnt": 7500,
+                    "viewName": null,
+                    "sectionNumber": 1,
+                    "useCnt": 0,
+                    "toolName": "T01"
+                },
+                {
+                    "presetCnt": 12000,
+                    "viewName": null,
+                    "sectionNumber": 2,
+                    "useCnt": 0,
+                    "toolName": "T03"
+                },
+                {
+                    "presetCnt": 6400,
+                    "viewName": null,
+                    "sectionNumber": 3,
+                    "useCnt": 0,
+                    "toolName": "T05"
+                },
+                {
+                    "presetCnt": 11000,
+                    "viewName": null,
+                    "sectionNumber": 4,
+                    "useCnt": 0,
+                    "toolName": "T07"
+                },
+                {
+                    "presetCnt": 8000,
+                    "viewName": null,
+                    "sectionNumber": 5,
+                    "useCnt": 0,
+                    "toolName": "T09"
+                },
+                {
+                    "presetCnt": 11000,
+                    "viewName": null,
+                    "sectionNumber": 6,
+                    "useCnt": 0,
+                    "toolName": "T11"
+                },
+                {
+                    "presetCnt": 13500,
+                    "viewName": null,
+                    "sectionNumber": 7,
+                    "useCnt": 0,
+                    "toolName": "T13"
+                },
+                {
+                    "presetCnt": 6200,
+                    "viewName": null,
+                    "sectionNumber": 8,
+                    "useCnt": 0,
+                    "toolName": "T15"
+                },
+                {
+                    "presetCnt": 5100,
+                    "viewName": null,
+                    "sectionNumber": 9,
+                    "useCnt": 0,
+                    "toolName": "T17"
+                },
+                {
+                    "presetCnt": 4400,
+                    "viewName": null,
+                    "sectionNumber": 10,
+                    "useCnt": 0,
+                    "toolName": "T19"
+                },
+                {
+                    "presetCnt": 9600,
+                    "viewName": null,
+                    "sectionNumber": 11,
+                    "useCnt": 0,
+                    "toolName": "T21"
+                },
+                {
+                    "presetCnt": 8000,
+                    "viewName": null,
+                    "sectionNumber": 12,
+                    "useCnt": 0,
+                    "toolName": "T23"
+                },
+                {
+                    "presetCnt": 6400,
+                    "viewName": null,
+                    "sectionNumber": 13,
+                    "useCnt": 0,
+                    "toolName": "T25"
+                },
+                {
+                    "presetCnt": 4800,
+                    "viewName": null,
+                    "sectionNumber": 14,
+                    "useCnt": 0,
+                    "toolName": "T24"
+                }
+            ],
+            "machineName": "MVEV M/H OP10-2",
+            "productName": "O0100(MVEV HSG OP-10 MAIN P/G) "
+        },
+        {
+            "machineStatus": "hold",
+            "machineId": 1732,
+            "productId": 16279,
+            "productOid": "//MEMCARD/MVEV-HSG/D70.0.C2.REWORK/O555",
+            "itemStatus": "good",
+            "toolInfo": [],
+            "machineName": "MVEV M/H OP50-1",
+            "productName": "O0555(MVEV-MOTOR-HOUSING OP50) "
+        },
+        {
+            "machineStatus": "hold",
+            "machineId": 1775,
+            "productId": 15216,
+            "productOid": "//MEMCARD/MV/O10",
+            "itemStatus": "good",
+            "toolInfo": [],
+            "machineName": "MVEV M/H OP50-2",
+            "productName": "O0010(WARMING-UP P/G)"
+        },
+        {
+            "machineStatus": "hold",
+            "machineId": 1733,
+            "productId": 14598,
+            "productOid": "//CNC_MEM/USER/PATH1/MV/O5031",
+            "itemStatus": "info",
+            "toolInfo": [],
+            "machineName": "MVEV M/H OP50-3",
+            "productName": "O5031(T31 D7.6/18.0-265.0L BURNISHING DRILL) "
+        },
+        {
+            "machineStatus": "run",
+            "machineId": 1744,
+            "productId": 14369,
+            "productOid": "//CNC_MEM/USER/PATH1/O1",
+            "itemStatus": "good",
+            "toolInfo": [
+                {
+                    "presetCnt": 12000,
+                    "viewName": "T14 D110.0 FACE",
+                    "sectionNumber": 1,
+                    "useCnt": 3520,
+                    "toolName": "T14"
+                },
+                {
+                    "presetCnt": 6000,
+                    "viewName": "T16 2-D7.0X10L DR",
+                    "sectionNumber": 2,
+                    "useCnt": 3518,
+                    "toolName": "T16"
+                },
+                {
+                    "presetCnt": 6500,
+                    "viewName": "T18 5-D10.8X25L DR",
+                    "sectionNumber": 3,
+                    "useCnt": 3517,
+                    "toolName": "T18"
+                },
+                {
+                    "presetCnt": 4300,
+                    "viewName": "T02 D4.0 EM",
+                    "sectionNumber": 4,
+                    "useCnt": 3517,
+                    "toolName": "T02"
+                },
+                {
+                    "presetCnt": 4500,
+                    "viewName": "T11 D4.0 DR",
+                    "sectionNumber": 5,
+                    "useCnt": 3518,
+                    "toolName": "T11"
+                },
+                {
+                    "presetCnt": 5500,
+                    "viewName": "T15 4-D17.0 EM",
+                    "sectionNumber": 6,
+                    "useCnt": 3517,
+                    "toolName": "T15"
+                },
+                {
+                    "presetCnt": 5500,
+                    "viewName": "T03 1-D22.5X2FX15L EM",
+                    "sectionNumber": 7,
+                    "useCnt": 3517,
+                    "toolName": "T03"
+                },
+                {
+                    "presetCnt": 5500,
+                    "viewName": "T04 2-D27X2FX14.5L EM",
+                    "sectionNumber": 8,
+                    "useCnt": 3514,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 12000,
+                    "viewName": "T14 D110.0 FACE",
+                    "sectionNumber": 9,
+                    "useCnt": 3520,
+                    "toolName": "T14"
+                },
+                {
+                    "presetCnt": 14000,
+                    "viewName": "T20 D50.0 FC",
+                    "sectionNumber": 10,
+                    "useCnt": 3514,
+                    "toolName": "T20"
+                },
+                {
+                    "presetCnt": 4500,
+                    "viewName": "T11 D4.0 DR",
+                    "sectionNumber": 11,
+                    "useCnt": 3518,
+                    "toolName": "T11"
+                }
+            ],
+            "machineName": "A-OP10-1",
+            "productName": "O0001"
+        },
+        {
+            "machineStatus": "run",
+            "machineId": 1745,
+            "productId": 14368,
+            "productOid": "//CNC_MEM/USER/PATH1/O1",
+            "itemStatus": "good",
+            "toolInfo": [
+                {
+                    "presetCnt": 12000,
+                    "viewName": "T14 D110.0 FACE",
+                    "sectionNumber": 1,
+                    "useCnt": 2894,
+                    "toolName": "T14"
+                },
+                {
+                    "presetCnt": 6000,
+                    "viewName": "T16 2-D7.0X10L DR",
+                    "sectionNumber": 2,
+                    "useCnt": 2896,
+                    "toolName": "T16"
+                },
+                {
+                    "presetCnt": 6500,
+                    "viewName": "T18 5-D10.8X25L DR",
+                    "sectionNumber": 3,
+                    "useCnt": 2895,
+                    "toolName": "T18"
+                },
+                {
+                    "presetCnt": 4300,
+                    "viewName": "T02 D4.0 EM",
+                    "sectionNumber": 4,
+                    "useCnt": 2895,
+                    "toolName": "T02"
+                },
+                {
+                    "presetCnt": 4500,
+                    "viewName": "T11 D4.0 DR",
+                    "sectionNumber": 5,
+                    "useCnt": 2895,
+                    "toolName": "T11"
+                },
+                {
+                    "presetCnt": 5500,
+                    "viewName": "T15 4-D17.0 EM",
+                    "sectionNumber": 6,
+                    "useCnt": 2894,
+                    "toolName": "T15"
+                },
+                {
+                    "presetCnt": 5500,
+                    "viewName": "T03 1-D22.5X2FX15L EM",
+                    "sectionNumber": 7,
+                    "useCnt": 2894,
+                    "toolName": "T03"
+                },
+                {
+                    "presetCnt": 5500,
+                    "viewName": "T04 2-D27X2FX14.5L EM",
+                    "sectionNumber": 8,
+                    "useCnt": 2894,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 12000,
+                    "viewName": "T14 D110.0 FACE",
+                    "sectionNumber": 9,
+                    "useCnt": 2894,
+                    "toolName": "T14"
+                },
+                {
+                    "presetCnt": 14000,
+                    "viewName": "T12 D50.0 FC",
+                    "sectionNumber": 10,
+                    "useCnt": 2893,
+                    "toolName": "T12"
+                },
+                {
+                    "presetCnt": 4500,
+                    "viewName": "T11 D4.0 DR",
+                    "sectionNumber": 11,
+                    "useCnt": 2895,
+                    "toolName": "T11"
+                }
+            ],
+            "machineName": "A-OP10-2",
+            "productName": "O0001(GAMMA2 CYLINDER HEAD T.GDI)"
+        },
+        {
+            "machineStatus": "run",
+            "machineId": 1746,
+            "productId": 14367,
+            "productOid": "//CNC_MEM/USER/PATH1/O1",
+            "itemStatus": "good",
+            "toolInfo": [
+                {
+                    "presetCnt": 8000,
+                    "viewName": "T13 D110.0 FACE",
+                    "sectionNumber": 1,
+                    "useCnt": 2517,
+                    "toolName": "T13"
+                },
+                {
+                    "presetCnt": 5800,
+                    "viewName": "T01 3-D6X10.2L DR",
+                    "sectionNumber": 2,
+                    "useCnt": 2512,
+                    "toolName": "T01"
+                },
+                {
+                    "presetCnt": 6000,
+                    "viewName": "T12 D8.0 EM",
+                    "sectionNumber": 3,
+                    "useCnt": 2509,
+                    "toolName": "T12"
+                },
+                {
+                    "presetCnt": 4500,
+                    "viewName": "T15 7-D8X12LXD10.8 DR",
+                    "sectionNumber": 4,
+                    "useCnt": 2506,
+                    "toolName": "T15"
+                },
+                {
+                    "presetCnt": 4500,
+                    "viewName": "T11 2-D8.0X70L DR",
+                    "sectionNumber": 5,
+                    "useCnt": 2506,
+                    "toolName": "T11"
+                },
+                {
+                    "presetCnt": 6500,
+                    "viewName": "T04 2-D10.8X67L DR",
+                    "sectionNumber": 6,
+                    "useCnt": 2504,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 8000,
+                    "viewName": "T13 D110.0 FACE",
+                    "sectionNumber": 7,
+                    "useCnt": 2517,
+                    "toolName": "T13"
+                },
+                {
+                    "presetCnt": 5000,
+                    "viewName": "T07 D12.0 EM",
+                    "sectionNumber": 8,
+                    "useCnt": 2504,
+                    "toolName": "T07"
+                },
+                {
+                    "presetCnt": 8000,
+                    "viewName": "T13 D110.0 FACE",
+                    "sectionNumber": 9,
+                    "useCnt": 2517,
+                    "toolName": "T13"
+                },
+                {
+                    "presetCnt": 6000,
+                    "viewName": "T12 D8.0 EM",
+                    "sectionNumber": 10,
+                    "useCnt": 2509,
+                    "toolName": "T12"
+                }
+            ],
+            "machineName": "A-OP20-1",
+            "productName": "O0001(GAMMA2 CYLINDER HEAD T.GDI)"
+        },
+        {
+            "machineStatus": "run",
+            "machineId": 1747,
+            "productId": 14370,
+            "productOid": "//CNC_MEM/USER/PATH1/O1",
+            "itemStatus": "good",
+            "toolInfo": [
+                {
+                    "presetCnt": 12000,
+                    "viewName": "T13 D110.0 FACE",
+                    "sectionNumber": 1,
+                    "useCnt": 511,
+                    "toolName": "T13"
+                },
+                {
+                    "presetCnt": 5800,
+                    "viewName": "T01 3-D6X10.2L DR",
+                    "sectionNumber": 2,
+                    "useCnt": 511,
+                    "toolName": "T01"
+                },
+                {
+                    "presetCnt": 6000,
+                    "viewName": "T12 D8.0 EM",
+                    "sectionNumber": 3,
+                    "useCnt": 511,
+                    "toolName": "T12"
+                },
+                {
+                    "presetCnt": 4500,
+                    "viewName": "T15 7-D8X12LXD10.8 DR",
+                    "sectionNumber": 4,
+                    "useCnt": 511,
+                    "toolName": "T15"
+                },
+                {
+                    "presetCnt": 4500,
+                    "viewName": "T11 2-D8.0X70L DR",
+                    "sectionNumber": 5,
+                    "useCnt": 511,
+                    "toolName": "T11"
+                },
+                {
+                    "presetCnt": 6500,
+                    "viewName": "T04 2-D10.8X67L DR",
+                    "sectionNumber": 6,
+                    "useCnt": 511,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 12000,
+                    "viewName": "T13 D110.0 FACE",
+                    "sectionNumber": 7,
+                    "useCnt": 511,
+                    "toolName": "T13"
+                },
+                {
+                    "presetCnt": 5000,
+                    "viewName": "T07 D12.0 EM",
+                    "sectionNumber": 8,
+                    "useCnt": 0,
+                    "toolName": "T07"
+                },
+                {
+                    "presetCnt": 12000,
+                    "viewName": "T13 D110.0 FACE",
+                    "sectionNumber": 9,
+                    "useCnt": 511,
+                    "toolName": "T13"
+                },
+                {
+                    "presetCnt": 6000,
+                    "viewName": "T12 D8.0 EM",
+                    "sectionNumber": 10,
+                    "useCnt": 511,
+                    "toolName": "T12"
+                }
+            ],
+            "machineName": "A-OP20-2",
+            "productName": "O0001(GAMMA2 CYLINDER HEAD T.GDI)"
+        },
+        {
+            "machineStatus": "run",
+            "machineId": 1748,
+            "productId": 14372,
+            "productOid": "//CNC_MEM/USER/PATH1/O1",
+            "itemStatus": "good",
+            "toolInfo": [
+                {
+                    "presetCnt": 3000,
+                    "viewName": "T13 D110.0 FACE",
+                    "sectionNumber": 1,
+                    "useCnt": 2722,
+                    "toolName": "T13"
+                },
+                {
+                    "presetCnt": 6000,
+                    "viewName": "T16 2-D7.0X10L DR",
+                    "sectionNumber": 2,
+                    "useCnt": 2726,
+                    "toolName": "T16"
+                },
+                {
+                    "presetCnt": 6500,
+                    "viewName": "T18 5-D10.8X25L DR",
+                    "sectionNumber": 3,
+                    "useCnt": 2725,
+                    "toolName": "T18"
+                },
+                {
+                    "presetCnt": 4300,
+                    "viewName": "T02 D4.0 EM",
+                    "sectionNumber": 4,
+                    "useCnt": 2726,
+                    "toolName": "T02"
+                },
+                {
+                    "presetCnt": 4500,
+                    "viewName": "T11 D4.0 DR",
+                    "sectionNumber": 5,
+                    "useCnt": 2725,
+                    "toolName": "T11"
+                },
+                {
+                    "presetCnt": 5500,
+                    "viewName": "T15 4-D17.0 EM",
+                    "sectionNumber": 6,
+                    "useCnt": 2723,
+                    "toolName": "T15"
+                },
+                {
+                    "presetCnt": 5500,
+                    "viewName": "T03 1-D22.5X2FX15L EM",
+                    "sectionNumber": 7,
+                    "useCnt": 2723,
+                    "toolName": "T03"
+                },
+                {
+                    "presetCnt": 5500,
+                    "viewName": "T04 2-D27X2FX14.5L EM",
+                    "sectionNumber": 8,
+                    "useCnt": 2722,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 3000,
+                    "viewName": "T13 D110.0 FACE",
+                    "sectionNumber": 9,
+                    "useCnt": 2722,
+                    "toolName": "T13"
+                },
+                {
+                    "presetCnt": 3000,
+                    "viewName": "T12 D50.0 FC",
+                    "sectionNumber": 10,
+                    "useCnt": 2721,
+                    "toolName": "T12"
+                },
+                {
+                    "presetCnt": 4500,
+                    "viewName": "T11 D4.0 DR",
+                    "sectionNumber": 11,
+                    "useCnt": 2725,
+                    "toolName": "T11"
+                }
+            ],
+            "machineName": "B-OP10-1",
+            "productName": "O0001(GAMMA2 C/H  T.GDI OP10)"
+        },
+        {
+            "machineStatus": "run",
+            "machineId": 1749,
+            "productId": 14373,
+            "productOid": "//CNC_MEM/USER/PATH1/O1",
+            "itemStatus": "error",
+            "toolInfo": [
+                {
+                    "presetCnt": 6000,
+                    "viewName": "T10 D110.0 FACE",
+                    "sectionNumber": 1,
+                    "useCnt": 381,
+                    "toolName": "T10"
+                },
+                {
+                    "presetCnt": 6000,
+                    "viewName": "T16 2-D7.0X10L DR",
+                    "sectionNumber": 2,
+                    "useCnt": 382,
+                    "toolName": "T16"
+                },
+                {
+                    "presetCnt": 6500,
+                    "viewName": "T18 5-D10.8X25L DR",
+                    "sectionNumber": 3,
+                    "useCnt": 382,
+                    "toolName": "T18"
+                },
+                {
+                    "presetCnt": 4300,
+                    "viewName": "T02 D4.0 EM",
+                    "sectionNumber": 4,
+                    "useCnt": 382,
+                    "toolName": "T02"
+                },
+                {
+                    "presetCnt": 4500,
+                    "viewName": "T11 D4.0 DR",
+                    "sectionNumber": 5,
+                    "useCnt": 382,
+                    "toolName": "T11"
+                },
+                {
+                    "presetCnt": 5500,
+                    "viewName": "T15 4-D17.0 EM",
+                    "sectionNumber": 6,
+                    "useCnt": 381,
+                    "toolName": "T15"
+                },
+                {
+                    "presetCnt": 5500,
+                    "viewName": "T03 1-D22.5X2FX15L EM",
+                    "sectionNumber": 7,
+                    "useCnt": 381,
+                    "toolName": "T03"
+                },
+                {
+                    "presetCnt": 5500,
+                    "viewName": "T04 2-D27X2FX14.5L EM",
+                    "sectionNumber": 8,
+                    "useCnt": 381,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 6000,
+                    "viewName": "T10 D110.0 FACE",
+                    "sectionNumber": 9,
+                    "useCnt": 381,
+                    "toolName": "T10"
+                },
+                {
+                    "presetCnt": 3000,
+                    "viewName": "T12 D50.0 FC",
+                    "sectionNumber": 10,
+                    "useCnt": 381,
+                    "toolName": "T12"
+                },
+                {
+                    "presetCnt": 4500,
+                    "viewName": "T11 D4.0 DR",
+                    "sectionNumber": 11,
+                    "useCnt": 382,
+                    "toolName": "T11"
+                }
+            ],
+            "machineName": "B-OP10-2",
+            "productName": "O0001(GAMMA2 C/H  T.GDI OP10)"
+        },
+        {
+            "machineStatus": "run",
+            "machineId": 1750,
+            "productId": 14371,
+            "productOid": "//CNC_MEM/USER/PATH1/O1",
+            "itemStatus": "good",
+            "toolInfo": [
+                {
+                    "presetCnt": 12000,
+                    "viewName": "T13 D110.0 FACE",
+                    "sectionNumber": 1,
+                    "useCnt": 913,
+                    "toolName": "T13"
+                },
+                {
+                    "presetCnt": 5800,
+                    "viewName": "T01 3-D6X10.2L DR",
+                    "sectionNumber": 2,
+                    "useCnt": 912,
+                    "toolName": "T01"
+                },
+                {
+                    "presetCnt": 6000,
+                    "viewName": "T08 D8.0 EM",
+                    "sectionNumber": 3,
+                    "useCnt": 912,
+                    "toolName": "T08"
+                },
+                {
+                    "presetCnt": 4500,
+                    "viewName": "T15 7-D8X12LXD10.8 DR",
+                    "sectionNumber": 4,
+                    "useCnt": 912,
+                    "toolName": "T15"
+                },
+                {
+                    "presetCnt": 4500,
+                    "viewName": "T11 2-D8.0X70L DR",
+                    "sectionNumber": 5,
+                    "useCnt": 912,
+                    "toolName": "T11"
+                },
+                {
+                    "presetCnt": 6500,
+                    "viewName": null,
+                    "sectionNumber": 6,
+                    "useCnt": 912,
+                    "toolName": "T17"
+                },
+                {
+                    "presetCnt": 12000,
+                    "viewName": "T13 D110.0 FACE",
+                    "sectionNumber": 7,
+                    "useCnt": 913,
+                    "toolName": "T13"
+                },
+                {
+                    "presetCnt": 5000,
+                    "viewName": "T07 D12.0 EM",
+                    "sectionNumber": 8,
+                    "useCnt": 912,
+                    "toolName": "T07"
+                },
+                {
+                    "presetCnt": 12000,
+                    "viewName": "T13 D110.0 FACE",
+                    "sectionNumber": 9,
+                    "useCnt": 913,
+                    "toolName": "T13"
+                },
+                {
+                    "presetCnt": 6000,
+                    "viewName": "T08 D8.0 EM",
+                    "sectionNumber": 10,
+                    "useCnt": 912,
+                    "toolName": "T08"
+                }
+            ],
+            "machineName": "B-OP20-1",
+            "productName": "O0001(GAMMA2 C/H  T.GDI OP20)"
+        },
+        {
+            "machineStatus": "run",
+            "machineId": 1751,
+            "productId": 14374,
+            "productOid": "//CNC_MEM/USER/PATH1/O1",
+            "itemStatus": "good",
+            "toolInfo": [
+                {
+                    "presetCnt": 12000,
+                    "viewName": "T13 D100.0 FACE",
+                    "sectionNumber": 1,
+                    "useCnt": 3069,
+                    "toolName": "T13"
+                },
+                {
+                    "presetCnt": 5800,
+                    "viewName": "T01 3-D6X10.2L DR",
+                    "sectionNumber": 2,
+                    "useCnt": 3068,
+                    "toolName": "T01"
+                },
+                {
+                    "presetCnt": 6000,
+                    "viewName": "T12 D8.0 EM",
+                    "sectionNumber": 3,
+                    "useCnt": 3068,
+                    "toolName": "T12"
+                },
+                {
+                    "presetCnt": 4500,
+                    "viewName": "T15 7-D8X12LXD10.8 DR",
+                    "sectionNumber": 4,
+                    "useCnt": 3067,
+                    "toolName": "T15"
+                },
+                {
+                    "presetCnt": 4500,
+                    "viewName": "T03 4-D8X63L DR",
+                    "sectionNumber": 5,
+                    "useCnt": 3066,
+                    "toolName": "T03"
+                },
+                {
+                    "presetCnt": 6500,
+                    "viewName": "T04 2-D10.8X67L DR",
+                    "sectionNumber": 6,
+                    "useCnt": 3066,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 12000,
+                    "viewName": "T13 D100.0 FACE",
+                    "sectionNumber": 7,
+                    "useCnt": 3069,
+                    "toolName": "T13"
+                },
+                {
+                    "presetCnt": 5000,
+                    "viewName": "T07 D12.0 EM",
+                    "sectionNumber": 8,
+                    "useCnt": 0,
+                    "toolName": "T07"
+                },
+                {
+                    "presetCnt": 12000,
+                    "viewName": "T13 D100.0 FACE",
+                    "sectionNumber": 9,
+                    "useCnt": 3069,
+                    "toolName": "T13"
+                },
+                {
+                    "presetCnt": 6000,
+                    "viewName": "T12 D8.0 EM",
+                    "sectionNumber": 10,
+                    "useCnt": 3068,
+                    "toolName": "T12"
+                }
+            ],
+            "machineName": "B-OP20-2",
+            "productName": "O0001"
+        },
+        {
+            "machineStatus": "run",
+            "machineId": 1753,
+            "productId": 14467,
+            "productOid": "//CNC_MEM/USER/PATH1/O2000",
+            "itemStatus": "good",
+            "toolInfo": [
+                {
+                    "presetCnt": 10000,
+                    "viewName": "T01 D110.0 F/C",
+                    "sectionNumber": 1,
+                    "useCnt": 2180,
+                    "toolName": "T01"
+                },
+                {
+                    "presetCnt": 10000,
+                    "viewName": "T07 D40.0 FACE",
+                    "sectionNumber": 2,
+                    "useCnt": 3040,
+                    "toolName": "T07"
+                },
+                {
+                    "presetCnt": 2000,
+                    "viewName": "T03 D8.0 DR",
+                    "sectionNumber": 3,
+                    "useCnt": 1433,
+                    "toolName": "T03"
+                }
+            ],
+            "machineName": "람다3 OP10",
+            "productName": "O2000(LAMDA3 LH OP10)"
+        },
+        {
+            "machineStatus": "run",
+            "machineId": 1754,
+            "productId": 14468,
+            "productOid": "//CNC_MEM/USER/PATH1/O200",
+            "itemStatus": "good",
+            "toolInfo": [
+                {
+                    "presetCnt": 4000,
+                    "viewName": "T03 D19.0 EM",
+                    "sectionNumber": 1,
+                    "useCnt": 3036,
+                    "toolName": "T03"
+                },
+                {
+                    "presetCnt": 8000,
+                    "viewName": "T02 D63.0 F/C",
+                    "sectionNumber": 2,
+                    "useCnt": 3037,
+                    "toolName": "T02"
+                }
+            ],
+            "machineName": "람다3 OP30",
+            "productName": "O0200(LAMDA-3 C/H OP30 LH) "
+        },
+        {
+            "machineStatus": "dis",
+            "machineId": 1783,
+            "productId": 14926,
+            "productOid": "//CNC_MEM/USER/PATH1/O1",
+            "itemStatus": "good",
+            "toolInfo": [
+                {
+                    "presetCnt": 4950,
+                    "viewName": null,
+                    "sectionNumber": 1,
+                    "useCnt": 2586,
+                    "toolName": "T01"
+                },
+                {
+                    "presetCnt": 3800,
+                    "viewName": null,
+                    "sectionNumber": 2,
+                    "useCnt": 1533,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 5200,
+                    "viewName": null,
+                    "sectionNumber": 3,
+                    "useCnt": 1379,
+                    "toolName": "T02"
+                },
+                {
+                    "presetCnt": 3200,
+                    "viewName": null,
+                    "sectionNumber": 4,
+                    "useCnt": 2644,
+                    "toolName": "T03"
+                },
+                {
+                    "presetCnt": 3190,
+                    "viewName": null,
+                    "sectionNumber": 5,
+                    "useCnt": 1378,
+                    "toolName": "T05"
+                },
+                {
+                    "presetCnt": 8400,
+                    "viewName": null,
+                    "sectionNumber": 6,
+                    "useCnt": 1378,
+                    "toolName": "T06"
+                },
+                {
+                    "presetCnt": 8200,
+                    "viewName": null,
+                    "sectionNumber": 7,
+                    "useCnt": 1378,
+                    "toolName": "T07"
+                },
+                {
+                    "presetCnt": 8200,
+                    "viewName": null,
+                    "sectionNumber": 8,
+                    "useCnt": 1541,
+                    "toolName": "T08"
+                },
+                {
+                    "presetCnt": 8200,
+                    "viewName": null,
+                    "sectionNumber": 9,
+                    "useCnt": 1378,
+                    "toolName": "T09"
+                },
+                {
+                    "presetCnt": 8400,
+                    "viewName": null,
+                    "sectionNumber": 10,
+                    "useCnt": 1378,
+                    "toolName": "T10"
+                },
+                {
+                    "presetCnt": 14400,
+                    "viewName": null,
+                    "sectionNumber": 11,
+                    "useCnt": 1378,
+                    "toolName": "T11"
+                },
+                {
+                    "presetCnt": 5100,
+                    "viewName": null,
+                    "sectionNumber": 12,
+                    "useCnt": 1532,
+                    "toolName": "T12"
+                },
+                {
+                    "presetCnt": 15000,
+                    "viewName": null,
+                    "sectionNumber": 13,
+                    "useCnt": 1378,
+                    "toolName": "T13"
+                }
+            ],
+            "machineName": "L-OP10-1",
+            "productName": "O0001(MV EV ICCU LOWER OP10) "
+        },
+        {
+            "machineStatus": "dis",
+            "machineId": 1782,
+            "productId": 14927,
+            "productOid": "//CNC_MEM/USER/PATH1/O1",
+            "itemStatus": "info",
+            "toolInfo": [
+                {
+                    "presetCnt": 4950,
+                    "viewName": null,
+                    "sectionNumber": 1,
+                    "useCnt": 341,
+                    "toolName": "T01"
+                },
+                {
+                    "presetCnt": 3800,
+                    "viewName": null,
+                    "sectionNumber": 2,
+                    "useCnt": 156,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 5200,
+                    "viewName": null,
+                    "sectionNumber": 3,
+                    "useCnt": 4536,
+                    "toolName": "T02"
+                },
+                {
+                    "presetCnt": 3200,
+                    "viewName": null,
+                    "sectionNumber": 4,
+                    "useCnt": 988,
+                    "toolName": "T03"
+                },
+                {
+                    "presetCnt": 3190,
+                    "viewName": null,
+                    "sectionNumber": 5,
+                    "useCnt": 1255,
+                    "toolName": "T05"
+                },
+                {
+                    "presetCnt": 8400,
+                    "viewName": null,
+                    "sectionNumber": 6,
+                    "useCnt": 1884,
+                    "toolName": "T06"
+                },
+                {
+                    "presetCnt": 8200,
+                    "viewName": null,
+                    "sectionNumber": 7,
+                    "useCnt": 2481,
+                    "toolName": "T07"
+                },
+                {
+                    "presetCnt": 8200,
+                    "viewName": null,
+                    "sectionNumber": 8,
+                    "useCnt": 2481,
+                    "toolName": "T08"
+                },
+                {
+                    "presetCnt": 8200,
+                    "viewName": null,
+                    "sectionNumber": 9,
+                    "useCnt": 2481,
+                    "toolName": "T09"
+                },
+                {
+                    "presetCnt": 8400,
+                    "viewName": null,
+                    "sectionNumber": 10,
+                    "useCnt": 1884,
+                    "toolName": "T10"
+                },
+                {
+                    "presetCnt": 14400,
+                    "viewName": null,
+                    "sectionNumber": 11,
+                    "useCnt": 12083,
+                    "toolName": "T11"
+                },
+                {
+                    "presetCnt": 5100,
+                    "viewName": null,
+                    "sectionNumber": 12,
+                    "useCnt": 1581,
+                    "toolName": "T12"
+                },
+                {
+                    "presetCnt": 15000,
+                    "viewName": null,
+                    "sectionNumber": 13,
+                    "useCnt": 12083,
+                    "toolName": "T13"
+                }
+            ],
+            "machineName": "L-OP10-2",
+            "productName": "O0001(MV EV ICCU LOWER OP10) "
+        },
+        {
+            "machineStatus": "dis",
+            "machineId": 1778,
+            "productId": 15046,
+            "productOid": "//CNC_MEM/USER/PATH1/O1",
+            "itemStatus": "good",
+            "toolInfo": [
+                {
+                    "presetCnt": 4950,
+                    "viewName": null,
+                    "sectionNumber": 1,
+                    "useCnt": 2732,
+                    "toolName": "T01"
+                },
+                {
+                    "presetCnt": 3800,
+                    "viewName": null,
+                    "sectionNumber": 2,
+                    "useCnt": 2731,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 5200,
+                    "viewName": null,
+                    "sectionNumber": 3,
+                    "useCnt": 1106,
+                    "toolName": "T02"
+                },
+                {
+                    "presetCnt": 3200,
+                    "viewName": null,
+                    "sectionNumber": 4,
+                    "useCnt": 72,
+                    "toolName": "T03"
+                },
+                {
+                    "presetCnt": 3190,
+                    "viewName": null,
+                    "sectionNumber": 5,
+                    "useCnt": 81,
+                    "toolName": "T05"
+                },
+                {
+                    "presetCnt": 8400,
+                    "viewName": null,
+                    "sectionNumber": 6,
+                    "useCnt": 1708,
+                    "toolName": "T06"
+                },
+                {
+                    "presetCnt": 8200,
+                    "viewName": null,
+                    "sectionNumber": 7,
+                    "useCnt": 2495,
+                    "toolName": "T07"
+                },
+                {
+                    "presetCnt": 8200,
+                    "viewName": null,
+                    "sectionNumber": 8,
+                    "useCnt": 2495,
+                    "toolName": "T08"
+                },
+                {
+                    "presetCnt": 8200,
+                    "viewName": null,
+                    "sectionNumber": 9,
+                    "useCnt": 2495,
+                    "toolName": "T09"
+                },
+                {
+                    "presetCnt": 8400,
+                    "viewName": null,
+                    "sectionNumber": 10,
+                    "useCnt": 1898,
+                    "toolName": "T10"
+                },
+                {
+                    "presetCnt": 14400,
+                    "viewName": null,
+                    "sectionNumber": 11,
+                    "useCnt": 12697,
+                    "toolName": "T11"
+                },
+                {
+                    "presetCnt": 5100,
+                    "viewName": null,
+                    "sectionNumber": 12,
+                    "useCnt": 1597,
+                    "toolName": "T12"
+                },
+                {
+                    "presetCnt": 15000,
+                    "viewName": null,
+                    "sectionNumber": 13,
+                    "useCnt": 2752,
+                    "toolName": "T13"
+                }
+            ],
+            "machineName": "L-OP10-3",
+            "productName": "O0001(MV EV ICCU LOWER OP10) "
+        },
+        {
+            "machineStatus": "dis",
+            "machineId": 1781,
+            "productId": 14925,
+            "productOid": "//CNC_MEM/USER/PATH1/O1",
+            "itemStatus": "good",
+            "toolInfo": [
+                {
+                    "presetCnt": 4950,
+                    "viewName": null,
+                    "sectionNumber": 1,
+                    "useCnt": 12,
+                    "toolName": "T01"
+                },
+                {
+                    "presetCnt": 8500,
+                    "viewName": null,
+                    "sectionNumber": 2,
+                    "useCnt": 384,
+                    "toolName": "T02"
+                },
+                {
+                    "presetCnt": 4500,
+                    "viewName": null,
+                    "sectionNumber": 3,
+                    "useCnt": 2342,
+                    "toolName": "T03"
+                },
+                {
+                    "presetCnt": 14000,
+                    "viewName": null,
+                    "sectionNumber": 4,
+                    "useCnt": 8161,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 4200,
+                    "viewName": null,
+                    "sectionNumber": 5,
+                    "useCnt": 2511,
+                    "toolName": "T05"
+                },
+                {
+                    "presetCnt": 4300,
+                    "viewName": null,
+                    "sectionNumber": 6,
+                    "useCnt": 3862,
+                    "toolName": "T06"
+                },
+                {
+                    "presetCnt": 5200,
+                    "viewName": null,
+                    "sectionNumber": 7,
+                    "useCnt": 4708,
+                    "toolName": "T07"
+                },
+                {
+                    "presetCnt": 4200,
+                    "viewName": null,
+                    "sectionNumber": 8,
+                    "useCnt": 3962,
+                    "toolName": "T10"
+                },
+                {
+                    "presetCnt": 3950,
+                    "viewName": null,
+                    "sectionNumber": 9,
+                    "useCnt": 3256,
+                    "toolName": "T18"
+                },
+                {
+                    "presetCnt": 5400,
+                    "viewName": null,
+                    "sectionNumber": 10,
+                    "useCnt": 4288,
+                    "toolName": "T09"
+                },
+                {
+                    "presetCnt": 6500,
+                    "viewName": null,
+                    "sectionNumber": 11,
+                    "useCnt": 2103,
+                    "toolName": "T08"
+                },
+                {
+                    "presetCnt": 8500,
+                    "viewName": null,
+                    "sectionNumber": 12,
+                    "useCnt": 6604,
+                    "toolName": "T11"
+                }
+            ],
+            "machineName": "L-OP20-1",
+            "productName": "O0001(MV EV ICCU LOWER OP20) "
+        },
+        {
+            "machineStatus": "dis",
+            "machineId": 1777,
+            "productId": 14918,
+            "productOid": "//CNC_MEM/USER/PATH1/O1",
+            "itemStatus": "info",
+            "toolInfo": [
+                {
+                    "presetCnt": 4950,
+                    "viewName": null,
+                    "sectionNumber": 1,
+                    "useCnt": 498,
+                    "toolName": "T01"
+                },
+                {
+                    "presetCnt": 14000,
+                    "viewName": null,
+                    "sectionNumber": 2,
+                    "useCnt": 3944,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 8500,
+                    "viewName": null,
+                    "sectionNumber": 3,
+                    "useCnt": 6441,
+                    "toolName": "T02"
+                },
+                {
+                    "presetCnt": 4500,
+                    "viewName": null,
+                    "sectionNumber": 4,
+                    "useCnt": 3047,
+                    "toolName": "T03"
+                },
+                {
+                    "presetCnt": 4200,
+                    "viewName": null,
+                    "sectionNumber": 5,
+                    "useCnt": 0,
+                    "toolName": "T05"
+                },
+                {
+                    "presetCnt": 4300,
+                    "viewName": null,
+                    "sectionNumber": 6,
+                    "useCnt": 4155,
+                    "toolName": "T06"
+                },
+                {
+                    "presetCnt": 5200,
+                    "viewName": null,
+                    "sectionNumber": 7,
+                    "useCnt": 4858,
+                    "toolName": "T07"
+                },
+                {
+                    "presetCnt": 6500,
+                    "viewName": null,
+                    "sectionNumber": 8,
+                    "useCnt": 2836,
+                    "toolName": "T08"
+                },
+                {
+                    "presetCnt": 5400,
+                    "viewName": null,
+                    "sectionNumber": 9,
+                    "useCnt": 4042,
+                    "toolName": "T09"
+                },
+                {
+                    "presetCnt": 4200,
+                    "viewName": null,
+                    "sectionNumber": 10,
+                    "useCnt": 542,
+                    "toolName": "T10"
+                },
+                {
+                    "presetCnt": 8500,
+                    "viewName": null,
+                    "sectionNumber": 11,
+                    "useCnt": 943,
+                    "toolName": "T11"
+                },
+                {
+                    "presetCnt": 3000,
+                    "viewName": null,
+                    "sectionNumber": 12,
+                    "useCnt": 0,
+                    "toolName": "T12"
+                },
+                {
+                    "presetCnt": 5000,
+                    "viewName": null,
+                    "sectionNumber": 13,
+                    "useCnt": 1,
+                    "toolName": "T13"
+                }
+            ],
+            "machineName": "L-OP20-2",
+            "productName": "O0001(MV EV ICCU LOWER OP20) "
+        },
+        {
+            "machineStatus": "dis",
+            "machineId": 1776,
+            "productId": 14917,
+            "productOid": "//CNC_MEM/USER/PATH1/O1",
+            "itemStatus": "good",
+            "toolInfo": [
+                {
+                    "presetCnt": 4950,
+                    "viewName": null,
+                    "sectionNumber": 1,
+                    "useCnt": 2746,
+                    "toolName": "T07"
+                },
+                {
+                    "presetCnt": 4300,
+                    "viewName": null,
+                    "sectionNumber": 2,
+                    "useCnt": 360,
+                    "toolName": "T08"
+                },
+                {
+                    "presetCnt": 8500,
+                    "viewName": null,
+                    "sectionNumber": 3,
+                    "useCnt": 971,
+                    "toolName": "T09"
+                },
+                {
+                    "presetCnt": 8800,
+                    "viewName": "T11 D18.4 BURNISHING DRILL",
+                    "sectionNumber": 4,
+                    "useCnt": 5362,
+                    "toolName": "T11"
+                },
+                {
+                    "presetCnt": 14400,
+                    "viewName": "T12 D18.9 PCD REAMER",
+                    "sectionNumber": 5,
+                    "useCnt": 3032,
+                    "toolName": "T12"
+                },
+                {
+                    "presetCnt": 5200,
+                    "viewName": "T10 D3.67-L10 BURNISHING DRILL",
+                    "sectionNumber": 6,
+                    "useCnt": 1442,
+                    "toolName": "T10"
+                },
+                {
+                    "presetCnt": 5200,
+                    "viewName": "T01 D3.67-L8.5 BURNISHING DRILL",
+                    "sectionNumber": 7,
+                    "useCnt": 157,
+                    "toolName": "T01"
+                },
+                {
+                    "presetCnt": 5500,
+                    "viewName": "T02 D2.78 BURNISHING DRILL",
+                    "sectionNumber": 8,
+                    "useCnt": 4454,
+                    "toolName": "T02"
+                },
+                {
+                    "presetCnt": 5200,
+                    "viewName": "T03 D4.62 BURNISHING DRILL",
+                    "sectionNumber": 9,
+                    "useCnt": 4716,
+                    "toolName": "T03"
+                },
+                {
+                    "presetCnt": 8000,
+                    "viewName": "T14 D5.51 BURNISHING DRILL",
+                    "sectionNumber": 10,
+                    "useCnt": 2745,
+                    "toolName": "T14"
+                },
+                {
+                    "presetCnt": 4500,
+                    "viewName": "T15 M6*1.0 TAP",
+                    "sectionNumber": 11,
+                    "useCnt": 2745,
+                    "toolName": "T15"
+                },
+                {
+                    "presetCnt": 4300,
+                    "viewName": "T04 M5*0.8 TAP",
+                    "sectionNumber": 12,
+                    "useCnt": 1330,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 2900,
+                    "viewName": "T06 M3*0.5 TAP",
+                    "sectionNumber": 13,
+                    "useCnt": 1442,
+                    "toolName": "T06"
+                },
+                {
+                    "presetCnt": 8500,
+                    "viewName": null,
+                    "sectionNumber": 14,
+                    "useCnt": 971,
+                    "toolName": "T09"
+                },
+                {
+                    "presetCnt": 4400,
+                    "viewName": "T05 M4*0.7 TAP",
+                    "sectionNumber": 15,
+                    "useCnt": 3748,
+                    "toolName": "T05"
+                }
+            ],
+            "machineName": "L-OP30-2",
+            "productName": "O0001(MV EV ICCU LOWER OP30) "
+        },
+        {
+            "machineStatus": "dis",
+            "machineId": 1784,
+            "productId": 15051,
+            "productOid": "//CNC_MEM/USER/PATH1/O1",
+            "itemStatus": "good",
+            "toolInfo": [
+                {
+                    "presetCnt": 4950,
+                    "viewName": null,
+                    "sectionNumber": 1,
+                    "useCnt": 2328,
+                    "toolName": "T07"
+                },
+                {
+                    "presetCnt": 4300,
+                    "viewName": null,
+                    "sectionNumber": 2,
+                    "useCnt": 3532,
+                    "toolName": "T08"
+                },
+                {
+                    "presetCnt": 8500,
+                    "viewName": null,
+                    "sectionNumber": 3,
+                    "useCnt": 37,
+                    "toolName": "T09"
+                },
+                {
+                    "presetCnt": 8800,
+                    "viewName": null,
+                    "sectionNumber": 4,
+                    "useCnt": 228,
+                    "toolName": "T11"
+                },
+                {
+                    "presetCnt": 14400,
+                    "viewName": null,
+                    "sectionNumber": 5,
+                    "useCnt": 3031,
+                    "toolName": "T12"
+                },
+                {
+                    "presetCnt": 5200,
+                    "viewName": null,
+                    "sectionNumber": 6,
+                    "useCnt": 634,
+                    "toolName": "T10"
+                },
+                {
+                    "presetCnt": 5200,
+                    "viewName": null,
+                    "sectionNumber": 7,
+                    "useCnt": 4220,
+                    "toolName": "T01"
+                },
+                {
+                    "presetCnt": 5500,
+                    "viewName": null,
+                    "sectionNumber": 8,
+                    "useCnt": 23,
+                    "toolName": "T02"
+                },
+                {
+                    "presetCnt": 5200,
+                    "viewName": null,
+                    "sectionNumber": 9,
+                    "useCnt": 255,
+                    "toolName": "T03"
+                },
+                {
+                    "presetCnt": 8000,
+                    "viewName": null,
+                    "sectionNumber": 10,
+                    "useCnt": 2618,
+                    "toolName": "T14"
+                },
+                {
+                    "presetCnt": 4500,
+                    "viewName": null,
+                    "sectionNumber": 11,
+                    "useCnt": 4122,
+                    "toolName": "T15"
+                },
+                {
+                    "presetCnt": 4300,
+                    "viewName": null,
+                    "sectionNumber": 12,
+                    "useCnt": 2055,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 2900,
+                    "viewName": null,
+                    "sectionNumber": 13,
+                    "useCnt": 624,
+                    "toolName": "T06"
+                },
+                {
+                    "presetCnt": 8500,
+                    "viewName": null,
+                    "sectionNumber": 14,
+                    "useCnt": 37,
+                    "toolName": "T09"
+                },
+                {
+                    "presetCnt": 4400,
+                    "viewName": null,
+                    "sectionNumber": 15,
+                    "useCnt": 3424,
+                    "toolName": "T05"
+                }
+            ],
+            "machineName": "L-OP30-3",
+            "productName": "O0001(MV EV ICCU LOWER OP30) "
+        },
+        {
+            "machineStatus": "dis",
+            "machineId": 1741,
+            "productId": 14264,
+            "productOid": "//CNC_MEM/USER/PATH1/O1",
+            "itemStatus": "good",
+            "toolInfo": [
+                {
+                    "presetCnt": 4950,
+                    "viewName": null,
+                    "sectionNumber": 1,
+                    "useCnt": 1711,
+                    "toolName": "T01"
+                },
+                {
+                    "presetCnt": 5200,
+                    "viewName": null,
+                    "sectionNumber": 2,
+                    "useCnt": 418,
+                    "toolName": "T02"
+                },
+                {
+                    "presetCnt": 3190,
+                    "viewName": null,
+                    "sectionNumber": 3,
+                    "useCnt": 993,
+                    "toolName": "T03"
+                },
+                {
+                    "presetCnt": 3190,
+                    "viewName": null,
+                    "sectionNumber": 4,
+                    "useCnt": 693,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 3300,
+                    "viewName": null,
+                    "sectionNumber": 5,
+                    "useCnt": 826,
+                    "toolName": "T05"
+                },
+                {
+                    "presetCnt": 8200,
+                    "viewName": null,
+                    "sectionNumber": 6,
+                    "useCnt": 1313,
+                    "toolName": "T09"
+                },
+                {
+                    "presetCnt": 8200,
+                    "viewName": null,
+                    "sectionNumber": 7,
+                    "useCnt": 3625,
+                    "toolName": "T10"
+                },
+                {
+                    "presetCnt": 5200,
+                    "viewName": null,
+                    "sectionNumber": 8,
+                    "useCnt": 30,
+                    "toolName": "T13"
+                },
+                {
+                    "presetCnt": 10800,
+                    "viewName": null,
+                    "sectionNumber": 9,
+                    "useCnt": 1713,
+                    "toolName": "T14"
+                },
+                {
+                    "presetCnt": 8400,
+                    "viewName": null,
+                    "sectionNumber": 10,
+                    "useCnt": 513,
+                    "toolName": "T15"
+                },
+                {
+                    "presetCnt": 3800,
+                    "viewName": null,
+                    "sectionNumber": 11,
+                    "useCnt": 3625,
+                    "toolName": "T06"
+                },
+                {
+                    "presetCnt": 8400,
+                    "viewName": null,
+                    "sectionNumber": 12,
+                    "useCnt": 513,
+                    "toolName": "T18"
+                },
+                {
+                    "presetCnt": 14400,
+                    "viewName": null,
+                    "sectionNumber": 13,
+                    "useCnt": 5313,
+                    "toolName": "T19"
+                },
+                {
+                    "presetCnt": 14400,
+                    "viewName": null,
+                    "sectionNumber": 14,
+                    "useCnt": 13,
+                    "toolName": "T08"
+                },
+                {
+                    "presetCnt": 7800,
+                    "viewName": null,
+                    "sectionNumber": 15,
+                    "useCnt": 4613,
+                    "toolName": "T20"
+                },
+                {
+                    "presetCnt": 8100,
+                    "viewName": null,
+                    "sectionNumber": 16,
+                    "useCnt": 1715,
+                    "toolName": "T21"
+                }
+            ],
+            "machineName": "U-OP10-2",
+            "productName": "O0001(MV EV ICCU UPPER OP10) "
+        },
+        {
+            "machineStatus": "dis",
+            "machineId": 1780,
+            "productId": 14920,
+            "productOid": "//CNC_MEM/USER/PATH1/O1",
+            "itemStatus": "good",
+            "toolInfo": [
+                {
+                    "presetCnt": 4950,
+                    "viewName": null,
+                    "sectionNumber": 1,
+                    "useCnt": 1472,
+                    "toolName": "T01"
+                },
+                {
+                    "presetCnt": 5200,
+                    "viewName": null,
+                    "sectionNumber": 2,
+                    "useCnt": 4520,
+                    "toolName": "T02"
+                },
+                {
+                    "presetCnt": 3190,
+                    "viewName": null,
+                    "sectionNumber": 3,
+                    "useCnt": 1414,
+                    "toolName": "T03"
+                },
+                {
+                    "presetCnt": 3190,
+                    "viewName": null,
+                    "sectionNumber": 4,
+                    "useCnt": 1414,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 3300,
+                    "viewName": null,
+                    "sectionNumber": 5,
+                    "useCnt": 1540,
+                    "toolName": "T05"
+                },
+                {
+                    "presetCnt": 8200,
+                    "viewName": null,
+                    "sectionNumber": 6,
+                    "useCnt": 5641,
+                    "toolName": "T09"
+                },
+                {
+                    "presetCnt": 8200,
+                    "viewName": null,
+                    "sectionNumber": 7,
+                    "useCnt": 2443,
+                    "toolName": "T10"
+                },
+                {
+                    "presetCnt": 5200,
+                    "viewName": null,
+                    "sectionNumber": 8,
+                    "useCnt": 2887,
+                    "toolName": "T13"
+                },
+                {
+                    "presetCnt": 10800,
+                    "viewName": null,
+                    "sectionNumber": 9,
+                    "useCnt": 8637,
+                    "toolName": "T14"
+                },
+                {
+                    "presetCnt": 8400,
+                    "viewName": null,
+                    "sectionNumber": 10,
+                    "useCnt": 5045,
+                    "toolName": "T15"
+                },
+                {
+                    "presetCnt": 700,
+                    "viewName": null,
+                    "sectionNumber": 11,
+                    "useCnt": 145,
+                    "toolName": "T06"
+                },
+                {
+                    "presetCnt": 8400,
+                    "viewName": null,
+                    "sectionNumber": 12,
+                    "useCnt": 5037,
+                    "toolName": "T18"
+                },
+                {
+                    "presetCnt": 14400,
+                    "viewName": null,
+                    "sectionNumber": 13,
+                    "useCnt": 1434,
+                    "toolName": "T19"
+                },
+                {
+                    "presetCnt": 14400,
+                    "viewName": null,
+                    "sectionNumber": 14,
+                    "useCnt": 3311,
+                    "toolName": "T08"
+                },
+                {
+                    "presetCnt": 7800,
+                    "viewName": null,
+                    "sectionNumber": 15,
+                    "useCnt": 433,
+                    "toolName": "T20"
+                },
+                {
+                    "presetCnt": 8100,
+                    "viewName": null,
+                    "sectionNumber": 16,
+                    "useCnt": 5936,
+                    "toolName": "T21"
+                }
+            ],
+            "machineName": "U-OP10-3",
+            "productName": "O0001(MV EV ICCU UPPER OP10) "
+        },
+        {
+            "machineStatus": "dis",
+            "machineId": 1740,
+            "productId": 18150,
+            "productOid": "//CNC_MEM/USER/PATH1/O1200",
+            "itemStatus": "good",
+            "toolInfo": [],
+            "machineName": "U-OP20-1",
+            "productName": "O1200(FRONT COVER  2017. 5.24 420T ) "
+        },
+        {
+            "machineStatus": "dis",
+            "machineId": 1742,
+            "productId": 14262,
+            "productOid": "//CNC_MEM/USER/PATH1/O1",
+            "itemStatus": "good",
+            "toolInfo": [
+                {
+                    "presetCnt": 4950,
+                    "viewName": null,
+                    "sectionNumber": 1,
+                    "useCnt": 1250,
+                    "toolName": "T01"
+                },
+                {
+                    "presetCnt": 5200,
+                    "viewName": null,
+                    "sectionNumber": 2,
+                    "useCnt": 192,
+                    "toolName": "T16"
+                },
+                {
+                    "presetCnt": 8000,
+                    "viewName": null,
+                    "sectionNumber": 3,
+                    "useCnt": 3786,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 4200,
+                    "viewName": null,
+                    "sectionNumber": 4,
+                    "useCnt": 951,
+                    "toolName": "T10"
+                },
+                {
+                    "presetCnt": 4300,
+                    "viewName": null,
+                    "sectionNumber": 5,
+                    "useCnt": 584,
+                    "toolName": "T11"
+                },
+                {
+                    "presetCnt": 8200,
+                    "viewName": null,
+                    "sectionNumber": 6,
+                    "useCnt": 3178,
+                    "toolName": "T12"
+                },
+                {
+                    "presetCnt": 4300,
+                    "viewName": null,
+                    "sectionNumber": 7,
+                    "useCnt": 579,
+                    "toolName": "T13"
+                },
+                {
+                    "presetCnt": 4200,
+                    "viewName": null,
+                    "sectionNumber": 8,
+                    "useCnt": 2599,
+                    "toolName": "T05"
+                },
+                {
+                    "presetCnt": 5500,
+                    "viewName": null,
+                    "sectionNumber": 9,
+                    "useCnt": 276,
+                    "toolName": "T07"
+                },
+                {
+                    "presetCnt": 4400,
+                    "viewName": null,
+                    "sectionNumber": 10,
+                    "useCnt": 244,
+                    "toolName": "T08"
+                },
+                {
+                    "presetCnt": 3300,
+                    "viewName": null,
+                    "sectionNumber": 11,
+                    "useCnt": 3078,
+                    "toolName": "T14"
+                },
+                {
+                    "presetCnt": 5400,
+                    "viewName": null,
+                    "sectionNumber": 12,
+                    "useCnt": 4054,
+                    "toolName": "T15"
+                }
+            ],
+            "machineName": "U-OP20-2",
+            "productName": "O0001(MV EV ICCU UPPER OP20) "
+        },
+        {
+            "machineStatus": "dis",
+            "machineId": 1785,
+            "productId": 15034,
+            "productOid": "//CNC_MEM/USER/PATH1/O1",
+            "itemStatus": "good",
+            "toolInfo": [
+                {
+                    "presetCnt": 4950,
+                    "viewName": null,
+                    "sectionNumber": 1,
+                    "useCnt": 2201,
+                    "toolName": "T01"
+                },
+                {
+                    "presetCnt": 5200,
+                    "viewName": null,
+                    "sectionNumber": 2,
+                    "useCnt": 2409,
+                    "toolName": "T16"
+                },
+                {
+                    "presetCnt": 8000,
+                    "viewName": null,
+                    "sectionNumber": 3,
+                    "useCnt": 2201,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 4200,
+                    "viewName": null,
+                    "sectionNumber": 4,
+                    "useCnt": 440,
+                    "toolName": "T10"
+                },
+                {
+                    "presetCnt": 4300,
+                    "viewName": null,
+                    "sectionNumber": 5,
+                    "useCnt": 2734,
+                    "toolName": "T11"
+                },
+                {
+                    "presetCnt": 8200,
+                    "viewName": null,
+                    "sectionNumber": 6,
+                    "useCnt": 1043,
+                    "toolName": "T12"
+                },
+                {
+                    "presetCnt": 4300,
+                    "viewName": null,
+                    "sectionNumber": 7,
+                    "useCnt": 3573,
+                    "toolName": "T13"
+                },
+                {
+                    "presetCnt": 4200,
+                    "viewName": null,
+                    "sectionNumber": 8,
+                    "useCnt": 436,
+                    "toolName": "T05"
+                },
+                {
+                    "presetCnt": 5500,
+                    "viewName": null,
+                    "sectionNumber": 9,
+                    "useCnt": 3624,
+                    "toolName": "T07"
+                },
+                {
+                    "presetCnt": 4400,
+                    "viewName": null,
+                    "sectionNumber": 10,
+                    "useCnt": 3631,
+                    "toolName": "T08"
+                },
+                {
+                    "presetCnt": 3300,
+                    "viewName": null,
+                    "sectionNumber": 11,
+                    "useCnt": 2528,
+                    "toolName": "T14"
+                },
+                {
+                    "presetCnt": 5400,
+                    "viewName": null,
+                    "sectionNumber": 12,
+                    "useCnt": 2201,
+                    "toolName": "T15"
+                }
+            ],
+            "machineName": "U-OP20-3",
+            "productName": "O0001"
+        },
+        {
+            "machineStatus": "dis",
+            "machineId": 1779,
+            "productId": 14919,
+            "productOid": "//CNC_MEM/USER/PATH1/O1",
+            "itemStatus": "good",
+            "toolInfo": [
+                {
+                    "presetCnt": 3520,
+                    "viewName": null,
+                    "sectionNumber": 1,
+                    "useCnt": 3215,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 3520,
+                    "viewName": null,
+                    "sectionNumber": 2,
+                    "useCnt": 2533,
+                    "toolName": "T05"
+                },
+                {
+                    "presetCnt": 4200,
+                    "viewName": null,
+                    "sectionNumber": 3,
+                    "useCnt": 491,
+                    "toolName": "T06"
+                },
+                {
+                    "presetCnt": 4200,
+                    "viewName": null,
+                    "sectionNumber": 4,
+                    "useCnt": 492,
+                    "toolName": "T07"
+                },
+                {
+                    "presetCnt": 3850,
+                    "viewName": null,
+                    "sectionNumber": 5,
+                    "useCnt": 846,
+                    "toolName": "T01"
+                },
+                {
+                    "presetCnt": 3100,
+                    "viewName": null,
+                    "sectionNumber": 6,
+                    "useCnt": 3096,
+                    "toolName": "T11"
+                },
+                {
+                    "presetCnt": 6300,
+                    "viewName": null,
+                    "sectionNumber": 7,
+                    "useCnt": 2093,
+                    "toolName": "T12"
+                },
+                {
+                    "presetCnt": 4300,
+                    "viewName": null,
+                    "sectionNumber": 8,
+                    "useCnt": 190,
+                    "toolName": "T13"
+                },
+                {
+                    "presetCnt": 7400,
+                    "viewName": null,
+                    "sectionNumber": 9,
+                    "useCnt": 3722,
+                    "toolName": "T14"
+                },
+                {
+                    "presetCnt": 4200,
+                    "viewName": null,
+                    "sectionNumber": 10,
+                    "useCnt": 3745,
+                    "toolName": "T15"
+                },
+                {
+                    "presetCnt": 4300,
+                    "viewName": null,
+                    "sectionNumber": 11,
+                    "useCnt": 2945,
+                    "toolName": "T16"
+                },
+                {
+                    "presetCnt": 6700,
+                    "viewName": null,
+                    "sectionNumber": 12,
+                    "useCnt": 1294,
+                    "toolName": "T17"
+                },
+                {
+                    "presetCnt": 4300,
+                    "viewName": null,
+                    "sectionNumber": 13,
+                    "useCnt": 2400,
+                    "toolName": "T08"
+                },
+                {
+                    "presetCnt": 2750,
+                    "viewName": null,
+                    "sectionNumber": 14,
+                    "useCnt": 1250,
+                    "toolName": "T09"
+                }
+            ],
+            "machineName": "U-OP30-2",
+            "productName": "O0001(MV EV ICCU UPPER OP30) "
+        },
+        {
+            "machineStatus": "dis",
+            "machineId": 1743,
+            "productId": 14265,
+            "productOid": "//CNC_MEM/USER/PATH1/O1",
+            "itemStatus": "good",
+            "toolInfo": [
+                {
+                    "presetCnt": 3520,
+                    "viewName": null,
+                    "sectionNumber": 1,
+                    "useCnt": 2358,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 3520,
+                    "viewName": null,
+                    "sectionNumber": 2,
+                    "useCnt": 2357,
+                    "toolName": "T05"
+                },
+                {
+                    "presetCnt": 4200,
+                    "viewName": null,
+                    "sectionNumber": 3,
+                    "useCnt": 2357,
+                    "toolName": "T06"
+                },
+                {
+                    "presetCnt": 4200,
+                    "viewName": null,
+                    "sectionNumber": 4,
+                    "useCnt": 2357,
+                    "toolName": "T07"
+                },
+                {
+                    "presetCnt": 3850,
+                    "viewName": null,
+                    "sectionNumber": 5,
+                    "useCnt": 693,
+                    "toolName": "T01"
+                },
+                {
+                    "presetCnt": 3100,
+                    "viewName": null,
+                    "sectionNumber": 6,
+                    "useCnt": 2357,
+                    "toolName": "T11"
+                },
+                {
+                    "presetCnt": 6300,
+                    "viewName": null,
+                    "sectionNumber": 7,
+                    "useCnt": 393,
+                    "toolName": "T12"
+                },
+                {
+                    "presetCnt": 4300,
+                    "viewName": null,
+                    "sectionNumber": 8,
+                    "useCnt": 4096,
+                    "toolName": "T13"
+                },
+                {
+                    "presetCnt": 7400,
+                    "viewName": null,
+                    "sectionNumber": 9,
+                    "useCnt": 3393,
+                    "toolName": "T14"
+                },
+                {
+                    "presetCnt": 4200,
+                    "viewName": null,
+                    "sectionNumber": 10,
+                    "useCnt": 392,
+                    "toolName": "T15"
+                },
+                {
+                    "presetCnt": 4300,
+                    "viewName": null,
+                    "sectionNumber": 11,
+                    "useCnt": 4096,
+                    "toolName": "T16"
+                },
+                {
+                    "presetCnt": 6700,
+                    "viewName": null,
+                    "sectionNumber": 12,
+                    "useCnt": 5999,
+                    "toolName": "T17"
+                },
+                {
+                    "presetCnt": 4300,
+                    "viewName": null,
+                    "sectionNumber": 13,
+                    "useCnt": 4095,
+                    "toolName": "T08"
+                },
+                {
+                    "presetCnt": 2750,
+                    "viewName": null,
+                    "sectionNumber": 14,
+                    "useCnt": 2428,
+                    "toolName": "T09"
+                }
+            ],
+            "machineName": "U-OP30-3",
+            "productName": "O0001(MV EV ICCU UPPER OP30) "
+        },
+        {
+            "machineStatus": "dis",
+            "machineId": 1840,
+            "productId": 18148,
+            "productOid": "//CNC_MEM/USER/PATH1/O3000",
+            "itemStatus": "good",
+            "toolInfo": [],
+            "machineName": "U-OP10-1",
+            "productName": "O3000(END COVER OP20  2017. 5.24 FAUNC a ) "
+        },
+        {
+            "machineStatus": "dis",
+            "machineId": 1841,
+            "productId": 16253,
+            "productOid": "//CNC_MEM/USER/PATH1/O1",
+            "itemStatus": "good",
+            "toolInfo": [
+                {
+                    "presetCnt": 4950,
+                    "viewName": null,
+                    "sectionNumber": 1,
+                    "useCnt": 13,
+                    "toolName": "T01"
+                },
+                {
+                    "presetCnt": 8500,
+                    "viewName": null,
+                    "sectionNumber": 2,
+                    "useCnt": 1255,
+                    "toolName": "T02"
+                },
+                {
+                    "presetCnt": 4500,
+                    "viewName": null,
+                    "sectionNumber": 3,
+                    "useCnt": 4256,
+                    "toolName": "T03"
+                },
+                {
+                    "presetCnt": 14000,
+                    "viewName": null,
+                    "sectionNumber": 4,
+                    "useCnt": 12762,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 1400,
+                    "viewName": null,
+                    "sectionNumber": 5,
+                    "useCnt": 156,
+                    "toolName": "T20"
+                },
+                {
+                    "presetCnt": 4300,
+                    "viewName": null,
+                    "sectionNumber": 6,
+                    "useCnt": 56,
+                    "toolName": "T06"
+                },
+                {
+                    "presetCnt": 5200,
+                    "viewName": null,
+                    "sectionNumber": 7,
+                    "useCnt": 4454,
+                    "toolName": "T07"
+                },
+                {
+                    "presetCnt": 4200,
+                    "viewName": null,
+                    "sectionNumber": 8,
+                    "useCnt": 4151,
+                    "toolName": "T10"
+                },
+                {
+                    "presetCnt": 3950,
+                    "viewName": null,
+                    "sectionNumber": 9,
+                    "useCnt": 1453,
+                    "toolName": "T18"
+                },
+                {
+                    "presetCnt": 5400,
+                    "viewName": null,
+                    "sectionNumber": 10,
+                    "useCnt": 3536,
+                    "toolName": "T09"
+                },
+                {
+                    "presetCnt": 6500,
+                    "viewName": null,
+                    "sectionNumber": 11,
+                    "useCnt": 735,
+                    "toolName": "T08"
+                },
+                {
+                    "presetCnt": 8500,
+                    "viewName": null,
+                    "sectionNumber": 12,
+                    "useCnt": 153,
+                    "toolName": "T11"
+                }
+            ],
+            "machineName": "L-OP20-3",
+            "productName": "O0001(MV EV ICCU LOWER OP20) "
+        },
+        {
+            "machineStatus": "hold",
+            "machineId": 1842,
+            "productId": 16258,
+            "productOid": "//CNC_MEM/USER/PATH1/O700",
+            "itemStatus": "info",
+            "toolInfo": [
+                {
+                    "presetCnt": 2000,
+                    "viewName": null,
+                    "sectionNumber": 1,
+                    "useCnt": 959,
+                    "toolName": "T20"
+                },
+                {
+                    "presetCnt": 1600,
+                    "viewName": null,
+                    "sectionNumber": 2,
+                    "useCnt": 271,
+                    "toolName": "T18"
+                },
+                {
+                    "presetCnt": 1500,
+                    "viewName": null,
+                    "sectionNumber": 3,
+                    "useCnt": 775,
+                    "toolName": "T01"
+                },
+                {
+                    "presetCnt": 1500,
+                    "viewName": null,
+                    "sectionNumber": 4,
+                    "useCnt": 0,
+                    "toolName": "T02"
+                },
+                {
+                    "presetCnt": 4000,
+                    "viewName": null,
+                    "sectionNumber": 5,
+                    "useCnt": 1394,
+                    "toolName": "T03"
+                },
+                {
+                    "presetCnt": 2000,
+                    "viewName": null,
+                    "sectionNumber": 6,
+                    "useCnt": 959,
+                    "toolName": "T19"
+                },
+                {
+                    "presetCnt": 1400,
+                    "viewName": null,
+                    "sectionNumber": 7,
+                    "useCnt": 1391,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 2000,
+                    "viewName": null,
+                    "sectionNumber": 8,
+                    "useCnt": 1609,
+                    "toolName": "T05"
+                },
+                {
+                    "presetCnt": 2900,
+                    "viewName": null,
+                    "sectionNumber": 9,
+                    "useCnt": 1037,
+                    "toolName": "T06"
+                },
+                {
+                    "presetCnt": 900,
+                    "viewName": null,
+                    "sectionNumber": 10,
+                    "useCnt": 791,
+                    "toolName": "T07"
+                },
+                {
+                    "presetCnt": 1350,
+                    "viewName": null,
+                    "sectionNumber": 11,
+                    "useCnt": 420,
+                    "toolName": "T08"
+                },
+                {
+                    "presetCnt": 4000,
+                    "viewName": null,
+                    "sectionNumber": 12,
+                    "useCnt": 1925,
+                    "toolName": "T09"
+                },
+                {
+                    "presetCnt": 4800,
+                    "viewName": null,
+                    "sectionNumber": 13,
+                    "useCnt": 937,
+                    "toolName": "T17"
+                },
+                {
+                    "presetCnt": 1900,
+                    "viewName": null,
+                    "sectionNumber": 14,
+                    "useCnt": 872,
+                    "toolName": "T10"
+                },
+                {
+                    "presetCnt": 1900,
+                    "viewName": null,
+                    "sectionNumber": 15,
+                    "useCnt": 471,
+                    "toolName": "T11"
+                },
+                {
+                    "presetCnt": 2000,
+                    "viewName": null,
+                    "sectionNumber": 16,
+                    "useCnt": 1390,
+                    "toolName": "T12"
+                },
+                {
+                    "presetCnt": 1800,
+                    "viewName": null,
+                    "sectionNumber": 17,
+                    "useCnt": 1358,
+                    "toolName": "T14"
+                },
+                {
+                    "presetCnt": 2000,
+                    "viewName": null,
+                    "sectionNumber": 18,
+                    "useCnt": 1390,
+                    "toolName": "T15"
+                },
+                {
+                    "presetCnt": 4500,
+                    "viewName": null,
+                    "sectionNumber": 19,
+                    "useCnt": 4048,
+                    "toolName": "T21"
+                }
+            ],
+            "machineName": "FCEV M/H OP10",
+            "productName": "O0700"
+        },
+        {
+            "machineStatus": "hold",
+            "machineId": 1843,
+            "productId": 16266,
+            "productOid": "//CNC_MEM/USER/PATH1/O4001",
+            "itemStatus": "info",
+            "toolInfo": [
+                {
+                    "presetCnt": 0,
+                    "viewName": null,
+                    "sectionNumber": 1,
+                    "useCnt": 0,
+                    "toolName": "T02"
+                },
+                {
+                    "presetCnt": 0,
+                    "viewName": null,
+                    "sectionNumber": 2,
+                    "useCnt": 0,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 0,
+                    "viewName": null,
+                    "sectionNumber": 3,
+                    "useCnt": 0,
+                    "toolName": "T08"
+                },
+                {
+                    "presetCnt": 0,
+                    "viewName": null,
+                    "sectionNumber": 4,
+                    "useCnt": 0,
+                    "toolName": "T10"
+                },
+                {
+                    "presetCnt": 0,
+                    "viewName": null,
+                    "sectionNumber": 5,
+                    "useCnt": 0,
+                    "toolName": "T06"
+                },
+                {
+                    "presetCnt": 0,
+                    "viewName": null,
+                    "sectionNumber": 6,
+                    "useCnt": 0,
+                    "toolName": "T12"
+                }
+            ],
+            "machineName": "FCEV M/H OP20",
+            "productName": "O4001(FCEV M/H D62.0 S/P)"
+        },
+        {
+            "machineStatus": "hold",
+            "machineId": 1844,
+            "productId": 16256,
+            "productOid": "//CNC_MEM/USER/PATH1/O10",
+            "itemStatus": "info",
+            "toolInfo": [
+                {
+                    "presetCnt": 1800,
+                    "viewName": null,
+                    "sectionNumber": 1,
+                    "useCnt": 0,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 4000,
+                    "viewName": null,
+                    "sectionNumber": 2,
+                    "useCnt": 0,
+                    "toolName": "T05"
+                },
+                {
+                    "presetCnt": 1200,
+                    "viewName": null,
+                    "sectionNumber": 3,
+                    "useCnt": 0,
+                    "toolName": "T06"
+                },
+                {
+                    "presetCnt": 1500,
+                    "viewName": null,
+                    "sectionNumber": 4,
+                    "useCnt": 0,
+                    "toolName": "T07"
+                },
+                {
+                    "presetCnt": 1800,
+                    "viewName": null,
+                    "sectionNumber": 5,
+                    "useCnt": 0,
+                    "toolName": "T01"
+                },
+                {
+                    "presetCnt": 1800,
+                    "viewName": null,
+                    "sectionNumber": 6,
+                    "useCnt": 0,
+                    "toolName": "T19"
+                },
+                {
+                    "presetCnt": 1500,
+                    "viewName": null,
+                    "sectionNumber": 7,
+                    "useCnt": 0,
+                    "toolName": "T02"
+                }
+            ],
+            "machineName": "FCEV M/H OP30",
+            "productName": "O0010(FESCEV MOTOR-HOUSING OP-20)"
+        },
+        {
+            "machineStatus": "hold",
+            "machineId": 1846,
+            "productId": 16257,
+            "productOid": "//CNC_MEM/USER/PATH1/O700",
+            "itemStatus": "info",
+            "toolInfo": [
+                {
+                    "presetCnt": 1800,
+                    "viewName": null,
+                    "sectionNumber": 1,
+                    "useCnt": 0,
+                    "toolName": "T06"
+                },
+                {
+                    "presetCnt": 1800,
+                    "viewName": null,
+                    "sectionNumber": 2,
+                    "useCnt": 0,
+                    "toolName": "T07"
+                },
+                {
+                    "presetCnt": 1200,
+                    "viewName": null,
+                    "sectionNumber": 3,
+                    "useCnt": 0,
+                    "toolName": "T08"
+                },
+                {
+                    "presetCnt": 4000,
+                    "viewName": null,
+                    "sectionNumber": 4,
+                    "useCnt": 1928,
+                    "toolName": "T09"
+                }
+            ],
+            "machineName": "FCEV M/H OP50",
+            "productName": "O0700(FCEV OP50 2020.4.25) "
+        },
+        {
+            "machineStatus": "run",
+            "machineId": 1847,
+            "productId": 16259,
+            "productOid": "//CNC_MEM/USER/PATH1/O11",
+            "itemStatus": "good",
+            "toolInfo": [
+                {
+                    "presetCnt": 3500,
+                    "viewName": "T01-D110 FACE",
+                    "sectionNumber": 1,
+                    "useCnt": 1,
+                    "toolName": "T01"
+                },
+                {
+                    "presetCnt": 7000,
+                    "viewName": "T02-D12 BNS DRILL",
+                    "sectionNumber": 2,
+                    "useCnt": 1016,
+                    "toolName": "T02"
+                },
+                {
+                    "presetCnt": 5000,
+                    "viewName": "T03-D12.5 PCD RM",
+                    "sectionNumber": 3,
+                    "useCnt": 3416,
+                    "toolName": "T03"
+                },
+                {
+                    "presetCnt": 4000,
+                    "viewName": "T04-D7 EM",
+                    "sectionNumber": 4,
+                    "useCnt": 1016,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 1200,
+                    "viewName": "T05-D7 MA-DRILL",
+                    "sectionNumber": 5,
+                    "useCnt": 1016,
+                    "toolName": "T05"
+                },
+                {
+                    "presetCnt": 3000,
+                    "viewName": "T06-D12.5 E-DRILL",
+                    "sectionNumber": 6,
+                    "useCnt": 1016,
+                    "toolName": "T06"
+                },
+                {
+                    "presetCnt": 1200,
+                    "viewName": "T07 D12.5 MA-DRILL",
+                    "sectionNumber": 7,
+                    "useCnt": 1016,
+                    "toolName": "T07"
+                },
+                {
+                    "presetCnt": 5000,
+                    "viewName": "T08-D20 CEN DRILL",
+                    "sectionNumber": 8,
+                    "useCnt": 1016,
+                    "toolName": "T08"
+                }
+            ],
+            "machineName": "INNI C/B OP10",
+            "productName": "O0011(BLOCK-CYLINDER OP10) "
+        },
+        {
+            "machineStatus": "run",
+            "machineId": 1848,
+            "productId": 16260,
+            "productOid": "//CNC_MEM/USER/PATH1/O21",
+            "itemStatus": "good",
+            "toolInfo": [
+                {
+                    "presetCnt": 2000,
+                    "viewName": "T02-D10.2 BNS DRILL",
+                    "sectionNumber": 1,
+                    "useCnt": 223,
+                    "toolName": "T02"
+                },
+                {
+                    "presetCnt": 4800,
+                    "viewName": null,
+                    "sectionNumber": 2,
+                    "useCnt": 2173,
+                    "toolName": "T08"
+                },
+                {
+                    "presetCnt": 2000,
+                    "viewName": "T04-D9.5 PILOT DRILL",
+                    "sectionNumber": 3,
+                    "useCnt": 218,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 3000,
+                    "viewName": "T05-D9.5 TWIST DRILL",
+                    "sectionNumber": 4,
+                    "useCnt": 218,
+                    "toolName": "T05"
+                },
+                {
+                    "presetCnt": 2000,
+                    "viewName": "T06-D7/D9 BNS DRILL",
+                    "sectionNumber": 5,
+                    "useCnt": 218,
+                    "toolName": "T06"
+                },
+                {
+                    "presetCnt": 7000,
+                    "viewName": "T01-D110 FACE Z=7",
+                    "sectionNumber": 6,
+                    "useCnt": 2168,
+                    "toolName": "T01"
+                }
+            ],
+            "machineName": "INNI C/B OP20",
+            "productName": "O0021(BLOCK-CYLINDER OP20) "
+        },
+        {
+            "machineStatus": "run",
+            "machineId": 1849,
+            "productId": 16262,
+            "productOid": "//CNC_MEM/USER/PATH1/O31",
+            "itemStatus": "good",
+            "toolInfo": [
+                {
+                    "presetCnt": 2800,
+                    "viewName": "T01-D42 PCD EM",
+                    "sectionNumber": 1,
+                    "useCnt": 8,
+                    "toolName": "T01"
+                },
+                {
+                    "presetCnt": 3000,
+                    "viewName": "T02-D12.0 MA DRILL",
+                    "sectionNumber": 2,
+                    "useCnt": 2586,
+                    "toolName": "T02"
+                },
+                {
+                    "presetCnt": 3000,
+                    "viewName": null,
+                    "sectionNumber": 3,
+                    "useCnt": 1749,
+                    "toolName": "T17"
+                },
+                {
+                    "presetCnt": 5000,
+                    "viewName": "T04-D32 PCD EM Z=4",
+                    "sectionNumber": 4,
+                    "useCnt": 2586,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 4000,
+                    "viewName": "T05-D10.0 E/M",
+                    "sectionNumber": 5,
+                    "useCnt": 2586,
+                    "toolName": "T05"
+                },
+                {
+                    "presetCnt": 4000,
+                    "viewName": "T06-D5.0X14.5L BNS DRILL",
+                    "sectionNumber": 6,
+                    "useCnt": 2586,
+                    "toolName": "T06"
+                },
+                {
+                    "presetCnt": 6000,
+                    "viewName": "T07-D12.0 CEN DRILL",
+                    "sectionNumber": 7,
+                    "useCnt": 5847,
+                    "toolName": "T07"
+                },
+                {
+                    "presetCnt": 4500,
+                    "viewName": "T08-M6*1.0 M/C TAP ",
+                    "sectionNumber": 8,
+                    "useCnt": 2586,
+                    "toolName": "T08"
+                },
+                {
+                    "presetCnt": 4000,
+                    "viewName": "T09-D100 BRUSH",
+                    "sectionNumber": 9,
+                    "useCnt": 0,
+                    "toolName": "T09"
+                },
+                {
+                    "presetCnt": 2000,
+                    "viewName": "T10-D10 BALL DEBURRING",
+                    "sectionNumber": 10,
+                    "useCnt": 792,
+                    "toolName": "T10"
+                }
+            ],
+            "machineName": "INNI C/B OP30",
+            "productName": "O0031(BLOCK-CYLINDER OP30) "
+        },
+        {
+            "machineStatus": "run",
+            "machineId": 1850,
+            "productId": 16261,
+            "productOid": "//CNC_MEM/USER/PATH1/O41",
+            "itemStatus": "good",
+            "toolInfo": [
+                {
+                    "presetCnt": 6000,
+                    "viewName": "T01-D10 BALL EM",
+                    "sectionNumber": 1,
+                    "useCnt": 4,
+                    "toolName": "T01"
+                },
+                {
+                    "presetCnt": 4000,
+                    "viewName": "T02-D6 EM",
+                    "sectionNumber": 2,
+                    "useCnt": 716,
+                    "toolName": "T02"
+                },
+                {
+                    "presetCnt": 5000,
+                    "viewName": "T03-D48 BALL EM",
+                    "sectionNumber": 3,
+                    "useCnt": 1895,
+                    "toolName": "T03"
+                },
+                {
+                    "presetCnt": 3000,
+                    "viewName": "T04-D32 PCD EM Z=4",
+                    "sectionNumber": 4,
+                    "useCnt": 1895,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 2900,
+                    "viewName": "T05-D6.05 E-DRILL",
+                    "sectionNumber": 5,
+                    "useCnt": 716,
+                    "toolName": "T05"
+                },
+                {
+                    "presetCnt": 3000,
+                    "viewName": "T06-D6 MA DRILL",
+                    "sectionNumber": 6,
+                    "useCnt": 1895,
+                    "toolName": "T06"
+                },
+                {
+                    "presetCnt": 2000,
+                    "viewName": "T07-D6 BNS DRILL",
+                    "sectionNumber": 7,
+                    "useCnt": 716,
+                    "toolName": "T07"
+                },
+                {
+                    "presetCnt": 4000,
+                    "viewName": "T08-D7 ENDMILL",
+                    "sectionNumber": 8,
+                    "useCnt": 3616,
+                    "toolName": "T08"
+                },
+                {
+                    "presetCnt": 1900,
+                    "viewName": "T09-D7 MA DRILL",
+                    "sectionNumber": 9,
+                    "useCnt": 716,
+                    "toolName": "T09"
+                },
+                {
+                    "presetCnt": 3000,
+                    "viewName": "T04-D32 PCD EM Z=4",
+                    "sectionNumber": 10,
+                    "useCnt": 1895,
+                    "toolName": "T04"
+                }
+            ],
+            "machineName": "INNI C/B OP40",
+            "productName": "O0041(BLOCK-CYLINDER OP40) "
+        },
+        {
+            "machineStatus": "hold",
+            "machineId": 1851,
+            "productId": 16373,
+            "productOid": "//CNC_MEM/USER/PATH1/O8",
+            "itemStatus": "good",
+            "toolInfo": [
+                {
+                    "presetCnt": 0,
+                    "viewName": null,
+                    "sectionNumber": 1,
+                    "useCnt": 0,
+                    "toolName": "T21"
+                },
+                {
+                    "presetCnt": 500,
+                    "viewName": null,
+                    "sectionNumber": 2,
+                    "useCnt": 261,
+                    "toolName": "T01"
+                },
+                {
+                    "presetCnt": 4000,
+                    "viewName": null,
+                    "sectionNumber": 3,
+                    "useCnt": 0,
+                    "toolName": "T02"
+                },
+                {
+                    "presetCnt": 0,
+                    "viewName": null,
+                    "sectionNumber": 4,
+                    "useCnt": 0,
+                    "toolName": "T03"
+                },
+                {
+                    "presetCnt": 70,
+                    "viewName": null,
+                    "sectionNumber": 5,
+                    "useCnt": 0,
+                    "toolName": "T05"
+                },
+                {
+                    "presetCnt": 8000,
+                    "viewName": null,
+                    "sectionNumber": 6,
+                    "useCnt": 0,
+                    "toolName": "T06"
+                },
+                {
+                    "presetCnt": 70,
+                    "viewName": null,
+                    "sectionNumber": 7,
+                    "useCnt": 0,
+                    "toolName": "T07"
+                },
+                {
+                    "presetCnt": 5000,
+                    "viewName": null,
+                    "sectionNumber": 8,
+                    "useCnt": 2110,
+                    "toolName": "T08"
+                },
+                {
+                    "presetCnt": 0,
+                    "viewName": null,
+                    "sectionNumber": 9,
+                    "useCnt": 0,
+                    "toolName": "T09"
+                },
+                {
+                    "presetCnt": 0,
+                    "viewName": null,
+                    "sectionNumber": 10,
+                    "useCnt": 0,
+                    "toolName": "T10"
+                },
+                {
+                    "presetCnt": 70,
+                    "viewName": null,
+                    "sectionNumber": 11,
+                    "useCnt": 0,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 70,
+                    "viewName": null,
+                    "sectionNumber": 12,
+                    "useCnt": 0,
+                    "toolName": "T14"
+                },
+                {
+                    "presetCnt": 0,
+                    "viewName": null,
+                    "sectionNumber": 13,
+                    "useCnt": 0,
+                    "toolName": "T11"
+                },
+                {
+                    "presetCnt": 0,
+                    "viewName": null,
+                    "sectionNumber": 14,
+                    "useCnt": 0,
+                    "toolName": "T12"
+                },
+                {
+                    "presetCnt": 4000,
+                    "viewName": null,
+                    "sectionNumber": 15,
+                    "useCnt": 587,
+                    "toolName": "T13"
+                },
+                {
+                    "presetCnt": 4000,
+                    "viewName": null,
+                    "sectionNumber": 16,
+                    "useCnt": 0,
+                    "toolName": "T02"
+                },
+                {
+                    "presetCnt": 5000,
+                    "viewName": null,
+                    "sectionNumber": 17,
+                    "useCnt": 2110,
+                    "toolName": "T08"
+                },
+                {
+                    "presetCnt": 12000,
+                    "viewName": null,
+                    "sectionNumber": 18,
+                    "useCnt": 2397,
+                    "toolName": "T20"
+                },
+                {
+                    "presetCnt": 15000,
+                    "viewName": null,
+                    "sectionNumber": 19,
+                    "useCnt": 14422,
+                    "toolName": "T19"
+                },
+                {
+                    "presetCnt": 6000,
+                    "viewName": null,
+                    "sectionNumber": 20,
+                    "useCnt": 0,
+                    "toolName": "T18"
+                },
+                {
+                    "presetCnt": 0,
+                    "viewName": null,
+                    "sectionNumber": 21,
+                    "useCnt": 0,
+                    "toolName": "T21"
+                }
+            ],
+            "machineName": "OSEV M/H OP10-1",
+            "productName": "O0008"
+        },
+        {
+            "machineStatus": "hold",
+            "machineId": 1852,
+            "productId": 17176,
+            "productOid": "//CNC_MEM/USER/PATH1/O8",
+            "itemStatus": "good",
+            "toolInfo": [
+                {
+                    "presetCnt": 0,
+                    "viewName": null,
+                    "sectionNumber": 1,
+                    "useCnt": 0,
+                    "toolName": "T21"
+                },
+                {
+                    "presetCnt": 500,
+                    "viewName": null,
+                    "sectionNumber": 2,
+                    "useCnt": 248,
+                    "toolName": "T01"
+                },
+                {
+                    "presetCnt": 4000,
+                    "viewName": null,
+                    "sectionNumber": 3,
+                    "useCnt": 0,
+                    "toolName": "T02"
+                },
+                {
+                    "presetCnt": 0,
+                    "viewName": null,
+                    "sectionNumber": 4,
+                    "useCnt": 0,
+                    "toolName": "T03"
+                },
+                {
+                    "presetCnt": 70,
+                    "viewName": null,
+                    "sectionNumber": 5,
+                    "useCnt": 0,
+                    "toolName": "T05"
+                },
+                {
+                    "presetCnt": 8000,
+                    "viewName": null,
+                    "sectionNumber": 6,
+                    "useCnt": 0,
+                    "toolName": "T06"
+                },
+                {
+                    "presetCnt": 70,
+                    "viewName": null,
+                    "sectionNumber": 7,
+                    "useCnt": 0,
+                    "toolName": "T07"
+                },
+                {
+                    "presetCnt": 5000,
+                    "viewName": null,
+                    "sectionNumber": 8,
+                    "useCnt": 1750,
+                    "toolName": "T08"
+                },
+                {
+                    "presetCnt": 0,
+                    "viewName": null,
+                    "sectionNumber": 9,
+                    "useCnt": 0,
+                    "toolName": "T09"
+                },
+                {
+                    "presetCnt": 0,
+                    "viewName": null,
+                    "sectionNumber": 10,
+                    "useCnt": 0,
+                    "toolName": "T10"
+                },
+                {
+                    "presetCnt": 70,
+                    "viewName": null,
+                    "sectionNumber": 11,
+                    "useCnt": 0,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 70,
+                    "viewName": null,
+                    "sectionNumber": 12,
+                    "useCnt": 0,
+                    "toolName": "T14"
+                },
+                {
+                    "presetCnt": 0,
+                    "viewName": null,
+                    "sectionNumber": 13,
+                    "useCnt": 0,
+                    "toolName": "T11"
+                },
+                {
+                    "presetCnt": 0,
+                    "viewName": null,
+                    "sectionNumber": 14,
+                    "useCnt": 0,
+                    "toolName": "T12"
+                },
+                {
+                    "presetCnt": 4000,
+                    "viewName": null,
+                    "sectionNumber": 15,
+                    "useCnt": 672,
+                    "toolName": "T13"
+                },
+                {
+                    "presetCnt": 4000,
+                    "viewName": null,
+                    "sectionNumber": 16,
+                    "useCnt": 0,
+                    "toolName": "T02"
+                },
+                {
+                    "presetCnt": 5000,
+                    "viewName": null,
+                    "sectionNumber": 17,
+                    "useCnt": 1750,
+                    "toolName": "T08"
+                },
+                {
+                    "presetCnt": 12000,
+                    "viewName": null,
+                    "sectionNumber": 18,
+                    "useCnt": 11858,
+                    "toolName": "T20"
+                },
+                {
+                    "presetCnt": 15000,
+                    "viewName": null,
+                    "sectionNumber": 19,
+                    "useCnt": 11857,
+                    "toolName": "T19"
+                },
+                {
+                    "presetCnt": 6000,
+                    "viewName": null,
+                    "sectionNumber": 20,
+                    "useCnt": 4893,
+                    "toolName": "T18"
+                },
+                {
+                    "presetCnt": 0,
+                    "viewName": null,
+                    "sectionNumber": 21,
+                    "useCnt": 0,
+                    "toolName": "T21"
+                }
+            ],
+            "machineName": "OSEV M/H OP10-2",
+            "productName": "O0008(OSEV M/H OP10 21.11.18)"
+        },
+        {
+            "machineStatus": "hold",
+            "machineId": 1853,
+            "productId": 16370,
+            "productOid": "//CNC_MEM/USER/PATH1/O4300",
+            "itemStatus": "good",
+            "toolInfo": [
+                {
+                    "presetCnt": 0,
+                    "viewName": null,
+                    "sectionNumber": 1,
+                    "useCnt": 0,
+                    "toolName": "T02"
+                },
+                {
+                    "presetCnt": 0,
+                    "viewName": null,
+                    "sectionNumber": 2,
+                    "useCnt": 0,
+                    "toolName": "T12"
+                },
+                {
+                    "presetCnt": 0,
+                    "viewName": null,
+                    "sectionNumber": 3,
+                    "useCnt": 0,
+                    "toolName": "T08"
+                },
+                {
+                    "presetCnt": 0,
+                    "viewName": null,
+                    "sectionNumber": 4,
+                    "useCnt": 0,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 0,
+                    "viewName": null,
+                    "sectionNumber": 5,
+                    "useCnt": 0,
+                    "toolName": "T10"
+                }
+            ],
+            "machineName": "OSEV M/H OP20",
+            "productName": "O4300(TOOL LIST) "
+        },
+        {
+            "machineStatus": "hold",
+            "machineId": 1854,
+            "productId": 17294,
+            "productOid": "//CNC_MEM/USER/PATH1/O8",
+            "itemStatus": "good",
+            "toolInfo": [
+                {
+                    "presetCnt": 0,
+                    "viewName": null,
+                    "sectionNumber": 1,
+                    "useCnt": 0,
+                    "toolName": "T20"
+                },
+                {
+                    "presetCnt": 12000,
+                    "viewName": null,
+                    "sectionNumber": 2,
+                    "useCnt": 1751,
+                    "toolName": "T02"
+                },
+                {
+                    "presetCnt": 3100,
+                    "viewName": null,
+                    "sectionNumber": 3,
+                    "useCnt": 1487,
+                    "toolName": "T03"
+                },
+                {
+                    "presetCnt": 3000,
+                    "viewName": null,
+                    "sectionNumber": 4,
+                    "useCnt": 2393,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 7000,
+                    "viewName": null,
+                    "sectionNumber": 5,
+                    "useCnt": 3480,
+                    "toolName": "T05"
+                },
+                {
+                    "presetCnt": 4500,
+                    "viewName": null,
+                    "sectionNumber": 6,
+                    "useCnt": 1684,
+                    "toolName": "T06"
+                },
+                {
+                    "presetCnt": 6000,
+                    "viewName": null,
+                    "sectionNumber": 7,
+                    "useCnt": 3404,
+                    "toolName": "T07"
+                },
+                {
+                    "presetCnt": 3500,
+                    "viewName": null,
+                    "sectionNumber": 8,
+                    "useCnt": 0,
+                    "toolName": "T08"
+                },
+                {
+                    "presetCnt": 11000,
+                    "viewName": null,
+                    "sectionNumber": 9,
+                    "useCnt": 7771,
+                    "toolName": "T09"
+                },
+                {
+                    "presetCnt": 2800,
+                    "viewName": null,
+                    "sectionNumber": 10,
+                    "useCnt": 0,
+                    "toolName": "T10"
+                },
+                {
+                    "presetCnt": 6000,
+                    "viewName": null,
+                    "sectionNumber": 11,
+                    "useCnt": 1707,
+                    "toolName": "T11"
+                },
+                {
+                    "presetCnt": 7300,
+                    "viewName": null,
+                    "sectionNumber": 12,
+                    "useCnt": 0,
+                    "toolName": "T12"
+                },
+                {
+                    "presetCnt": 4200,
+                    "viewName": null,
+                    "sectionNumber": 13,
+                    "useCnt": 95,
+                    "toolName": "T13"
+                },
+                {
+                    "presetCnt": 3000,
+                    "viewName": null,
+                    "sectionNumber": 14,
+                    "useCnt": 1690,
+                    "toolName": "T14"
+                },
+                {
+                    "presetCnt": 0,
+                    "viewName": null,
+                    "sectionNumber": 15,
+                    "useCnt": 0,
+                    "toolName": "T18"
+                },
+                {
+                    "presetCnt": 0,
+                    "viewName": null,
+                    "sectionNumber": 16,
+                    "useCnt": 0,
+                    "toolName": "T17"
+                }
+            ],
+            "machineName": "OSEV M/H OP30",
+            "productName": "O0008"
+        },
+        {
+            "machineStatus": "hold",
+            "machineId": 1855,
+            "productId": 16371,
+            "productOid": "//CNC_MEM/USER/PATH1/O900",
+            "itemStatus": "good",
+            "toolInfo": [
+                {
+                    "presetCnt": 5000,
+                    "viewName": null,
+                    "sectionNumber": 1,
+                    "useCnt": 3989,
+                    "toolName": "T06"
+                },
+                {
+                    "presetCnt": 70,
+                    "viewName": null,
+                    "sectionNumber": 2,
+                    "useCnt": 0,
+                    "toolName": "T07"
+                },
+                {
+                    "presetCnt": 0,
+                    "viewName": null,
+                    "sectionNumber": 3,
+                    "useCnt": 0,
+                    "toolName": "T01"
+                },
+                {
+                    "presetCnt": 500,
+                    "viewName": null,
+                    "sectionNumber": 4,
+                    "useCnt": 287,
+                    "toolName": "T18"
+                },
+                {
+                    "presetCnt": 0,
+                    "viewName": null,
+                    "sectionNumber": 5,
+                    "useCnt": 0,
+                    "toolName": "T03"
+                }
+            ],
+            "machineName": "OSEV M/H OP50",
+            "productName": "O0900"
+        },
+        {
+            "machineStatus": "hold",
+            "machineId": 1856,
+            "productId": 17178,
+            "productOid": "//CNC_MEM/USER/PATH1/O1",
+            "itemStatus": "good",
+            "toolInfo": [
+                {
+                    "presetCnt": 7000,
+                    "viewName": null,
+                    "sectionNumber": 1,
+                    "useCnt": 4576,
+                    "toolName": "T01"
+                },
+                {
+                    "presetCnt": 7000,
+                    "viewName": null,
+                    "sectionNumber": 2,
+                    "useCnt": 4576,
+                    "toolName": "T02"
+                },
+                {
+                    "presetCnt": 3000,
+                    "viewName": null,
+                    "sectionNumber": 3,
+                    "useCnt": 1576,
+                    "toolName": "T03"
+                },
+                {
+                    "presetCnt": 4500,
+                    "viewName": null,
+                    "sectionNumber": 4,
+                    "useCnt": 75,
+                    "toolName": "T17"
+                },
+                {
+                    "presetCnt": 5000,
+                    "viewName": null,
+                    "sectionNumber": 5,
+                    "useCnt": 75,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 3000,
+                    "viewName": null,
+                    "sectionNumber": 6,
+                    "useCnt": 0,
+                    "toolName": "T05"
+                },
+                {
+                    "presetCnt": 2500,
+                    "viewName": null,
+                    "sectionNumber": 7,
+                    "useCnt": 1495,
+                    "toolName": "T07"
+                },
+                {
+                    "presetCnt": 4500,
+                    "viewName": null,
+                    "sectionNumber": 8,
+                    "useCnt": 0,
+                    "toolName": "T08"
+                },
+                {
+                    "presetCnt": 8000,
+                    "viewName": null,
+                    "sectionNumber": 9,
+                    "useCnt": 0,
+                    "toolName": "T09"
+                },
+                {
+                    "presetCnt": 7000,
+                    "viewName": null,
+                    "sectionNumber": 10,
+                    "useCnt": 4573,
+                    "toolName": "T15"
+                },
+                {
+                    "presetCnt": 2500,
+                    "viewName": null,
+                    "sectionNumber": 11,
+                    "useCnt": 2073,
+                    "toolName": "T16"
+                },
+                {
+                    "presetCnt": 7000,
+                    "viewName": null,
+                    "sectionNumber": 12,
+                    "useCnt": 4576,
+                    "toolName": "T01"
+                },
+                {
+                    "presetCnt": 5000,
+                    "viewName": null,
+                    "sectionNumber": 13,
+                    "useCnt": 0,
+                    "toolName": "T21"
+                },
+                {
+                    "presetCnt": 7000,
+                    "viewName": null,
+                    "sectionNumber": 14,
+                    "useCnt": 4573,
+                    "toolName": "T11"
+                },
+                {
+                    "presetCnt": 4500,
+                    "viewName": null,
+                    "sectionNumber": 15,
+                    "useCnt": 0,
+                    "toolName": "T12"
+                },
+                {
+                    "presetCnt": 7000,
+                    "viewName": null,
+                    "sectionNumber": 16,
+                    "useCnt": 4573,
+                    "toolName": "T06"
+                },
+                {
+                    "presetCnt": 5000,
+                    "viewName": null,
+                    "sectionNumber": 17,
+                    "useCnt": 75,
+                    "toolName": "T18"
+                },
+                {
+                    "presetCnt": 3000,
+                    "viewName": null,
+                    "sectionNumber": 18,
+                    "useCnt": 1574,
+                    "toolName": "T13"
+                },
+                {
+                    "presetCnt": 5000,
+                    "viewName": null,
+                    "sectionNumber": 19,
+                    "useCnt": 75,
+                    "toolName": "T04"
+                },
+                {
+                    "presetCnt": 3000,
+                    "viewName": null,
+                    "sectionNumber": 20,
+                    "useCnt": 0,
+                    "toolName": "T05"
+                },
+                {
+                    "presetCnt": 4500,
+                    "viewName": null,
+                    "sectionNumber": 21,
+                    "useCnt": 0,
+                    "toolName": "T08"
+                },
+                {
+                    "presetCnt": 8000,
+                    "viewName": null,
+                    "sectionNumber": 22,
+                    "useCnt": 0,
+                    "toolName": "T09"
+                },
+                {
+                    "presetCnt": 7000,
+                    "viewName": null,
+                    "sectionNumber": 23,
+                    "useCnt": 4576,
+                    "toolName": "T02"
+                },
+                {
+                    "presetCnt": 3000,
+                    "viewName": null,
+                    "sectionNumber": 24,
+                    "useCnt": 1576,
+                    "toolName": "T03"
+                },
+                {
+                    "presetCnt": 500,
+                    "viewName": null,
+                    "sectionNumber": 25,
+                    "useCnt": 0,
+                    "toolName": "T14"
+                }
+            ],
+            "machineName": "OSEV M/H OP60",
+            "productName": "O0001"
+        }
+    ]
+}
